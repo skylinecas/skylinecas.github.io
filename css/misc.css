@@ -1,7 +1,7 @@
 .version.misc /* version checker */
 {
-	color: #000014;
-	background-color: #FAC479;
+	color: #000019;
+	background-color: #510CD8;
 }
 
 #muse_css_mq
@@ -23,11 +23,16 @@
 	margin-right: auto;
 }
 
+#ppu1126
+{
+	z-index: 0;
+	margin-right: -10000px;
+	width: 100%;
+}
+
 #pu1126
 {
 	z-index: 6;
-	padding-bottom: 0px;
-	margin-right: -10000px;
 	width: 100%;
 }
 
@@ -35,12 +40,24 @@
 {
 	z-index: 6;
 	position: relative;
+	margin-right: -10000px;
 	width: 100%;
+}
+
+#u1198
+{
+	z-index: 9;
+	width: 60px;
+	min-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 7.3%;
 }
 
 #menuu98
 {
-	z-index: 9;
+	z-index: 11;
 	position: relative;
 	width: 100%;
 }
@@ -286,9 +303,19 @@
 	margin-right: 6px;
 }
 
+#u1203
+{
+	z-index: 10;
+	min-height: 100px;
+	margin-top: 143px;
+	position: relative;
+	width: 20.84%;
+	margin-left: 38.13%;
+}
+
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 517px);
+	height: calc(100vh - 760px);
 }
 
 #pu1193
@@ -341,7 +368,7 @@ body
 
 .verticalspacer
 {
-	min-height: 341px;
+	min-height: 98px;
 }
 
 #u1126_img

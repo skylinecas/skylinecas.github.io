@@ -52,7 +52,7 @@
 	box-shadow: inset 2px 0px 2px rgba(255,255,255,0.04), inset -2px 0px 2px rgba(0,0,0,0.04);
 }
 
-#u111-4
+#u1198,#u111-4
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -228,8 +228,8 @@
 	font-size: 12px;
 	letter-spacing: 5px;
 	color: #FFFFFF;
-	line-height: 14px;
 	text-align: center;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }
@@ -239,7 +239,7 @@
 	cursor: pointer;
 }
 
-#u1193
+#u1203,#u1193
 {
 	border-width: 0px;
 	border-color: transparent;
