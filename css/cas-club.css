@@ -1,7 +1,7 @@
 .version.cas_club /* version checker */
 {
-	color: #0000E3;
-	background-color: #0D12CB;
+	color: #00001A;
+	background-color: #D7A173;
 }
 
 #muse_css_mq
@@ -27,6 +27,7 @@
 {
 	z-index: 0;
 	margin-right: -10000px;
+	margin-top: -86px;
 	width: 103.76%;
 }
 
@@ -41,6 +42,7 @@
 	z-index: 6;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 86px;
 	width: 100%;
 }
 
@@ -51,13 +53,23 @@
 	min-height: 60px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 8px;
+	margin-top: 94px;
 	left: 7.3%;
+}
+
+#u1213
+{
+	z-index: 10;
+	min-height: 100px;
+	position: relative;
+	margin-right: -10000px;
+	width: 20.84%;
+	left: 0.42%;
 }
 
 #menuu98
 {
-	z-index: 10;
+	z-index: 11;
 	position: relative;
 	width: 96.39%;
 }
@@ -305,7 +317,7 @@
 
 #u1167-4
 {
-	z-index: 36;
+	z-index: 37;
 	min-height: 48px;
 	background-color: transparent;
 	margin-top: 7px;
@@ -316,7 +328,7 @@
 
 #u1170
 {
-	z-index: 40;
+	z-index: 41;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -327,7 +339,7 @@
 
 #u1163
 {
-	z-index: 35;
+	z-index: 36;
 	min-height: 458px;
 	border-width: 0px;
 	border-color: transparent;
