@@ -1,7 +1,7 @@
 .version.cas_club /* version checker */
 {
-	color: #000013;
-	background-color: #B0CDA1;
+	color: #0000E3;
+	background-color: #0D12CB;
 }
 
 #muse_css_mq
@@ -57,7 +57,7 @@
 
 #menuu98
 {
-	z-index: 11;
+	z-index: 10;
 	position: relative;
 	width: 96.39%;
 }
@@ -305,7 +305,7 @@
 
 #u1167-4
 {
-	z-index: 37;
+	z-index: 36;
 	min-height: 48px;
 	background-color: transparent;
 	margin-top: 7px;
@@ -316,7 +316,7 @@
 
 #u1170
 {
-	z-index: 41;
+	z-index: 40;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -325,35 +325,17 @@
 	width: 96.39%;
 }
 
-#pu1203
-{
-	z-index: 10;
-	margin-top: 42px;
-	width: 92.17%;
-	margin-left: 7.84%;
-}
-
-#u1203
-{
-	z-index: 10;
-	min-height: 100px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 21px;
-	width: 21.79%;
-	left: 31.38%;
-}
-
 #u1163
 {
-	z-index: 36;
+	z-index: 35;
 	min-height: 458px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	margin-top: 42px;
 	position: relative;
-	margin-right: -10000px;
-	width: 100%;
+	width: 92.17%;
+	margin-left: 7.84%;
 }
 
 .css_verticalspacer .verticalspacer
