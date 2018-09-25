@@ -1,0 +1,355 @@
+#u599
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u807
+{
+	background-color: transparent;
+}
+
+#u603
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #EDEDED;
+	border-radius: 12px;
+}
+
+#u621
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #0071BC;
+	border-radius: 10px 10px 0px 0px ;
+}
+
+#u604-4
+{
+	background-color: transparent;
+	letter-spacing: 1px;
+	color: #3C3C3C;
+	font-size: 14px;
+	text-align: center;
+	font-family: dosis, sans-serif;
+	font-weight: 300;
+}
+
+#u604-4:hover p,#u604-4:hover span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u604
+{
+	font-family: dosis, sans-serif;
+	font-weight: 300;
+}
+
+#buttonu613
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu613:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u614-6
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u614-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u614-4
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u615
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u615::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#u602,#buttonu613.ButtonSelected,#buttonu613:hover #u615
+{
+	background-color: transparent;
+}
+
+#buttonu613:active #u615
+{
+	background-color: transparent;
+}
+
+#buttonu617
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu617:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u618-6
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u618-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u618-4
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u619
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u619::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu613.ButtonSelected #u615,#buttonu617.ButtonSelected,#buttonu617:hover #u619
+{
+	background-color: transparent;
+}
+
+#buttonu617:active #u619
+{
+	background-color: transparent;
+}
+
+#buttonu609
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu609:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u612-6
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u612-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u612-4
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u610
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u610::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu617.ButtonSelected #u619,#buttonu609.ButtonSelected,#buttonu609:hover #u610
+{
+	background-color: transparent;
+}
+
+#buttonu609:active #u610
+{
+	background-color: transparent;
+}
+
+#buttonu605
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu605:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u608-6
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u608-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u608-4
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u606
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u606::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu609.ButtonSelected #u610,#buttonu605.ButtonSelected,#buttonu605:hover #u606
+{
+	background-color: transparent;
+}
+
+#buttonu605:active #u606
+{
+	background-color: transparent;
+}
+
+#buttonu622
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu622:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u625-4
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u625-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u614,#u614-3,#u618,#u618-3,#u612,#u612-3,#u608,#u608-3,#u625
+{
+	line-height: 19px;
+}
+
+#u623
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u623::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu605.ButtonSelected #u606,#buttonu622.ButtonSelected,#buttonu622:hover #u623
+{
+	background-color: transparent;
+}
+
+#buttonu622:active #u623
+{
+	background-color: transparent;
+}
+
+#buttonu622.ButtonSelected #u623
+{
+	background-color: transparent;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
