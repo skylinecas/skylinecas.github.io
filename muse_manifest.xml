@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skylinecas.github.io" resolutions="1x" timestamp="1538016317712">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skylinecas.github.io" resolutions="1x" timestamp="1538020099129">
   <folder name="assets">
     <file name="banner-1.3.png" crc="4053254976" seo="true" mt="1537920629000"/>
   </folder>
@@ -22,7 +22,7 @@
     <file name="further.css" crc="3938964000" ref="further"/>
     <file name="psychology.css" crc="3938964000" ref="psychology"/>
     <file name="history.css" crc="3938964000" ref="history"/>
-    <file name="resources.css" crc="105839231" ref="resources"/>
+    <file name="resources.css" crc="4075065074" ref="resources"/>
     <file name="group-5.css" crc="3938964000" ref="group-5"/>
     <file name="group-4.css" crc="3938964000" ref="group-4"/>
     <file name="group-3.css" crc="3938964000" ref="group-3"/>
@@ -45,9 +45,9 @@
   </folder>
   <folder name="images">
     <file name="pasdf.png" crc="223653777" seo="true" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok">
-      <caption webpage="tok" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="economics" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-3" alt=""/>
       <caption webpage="history" alt=""/>
       <caption webpage="further" alt=""/>
       <caption webpage="physics" alt=""/>
@@ -59,27 +59,27 @@
       <caption webpage="group-5" alt=""/>
       <caption webpage="literature" alt=""/>
       <caption webpage="calculus" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-3" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="economics" alt=""/>
       <caption webpage="resources" alt=""/>
     </file>
     <file name="pointer.png" crc="3760686964" seo="true" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok">
-      <caption webpage="tok" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="economics" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
       <caption webpage="history" alt=""/>
       <caption webpage="history" alt=""/>
       <caption webpage="history" alt=""/>
@@ -135,21 +135,21 @@
       <caption webpage="calculus" alt=""/>
       <caption webpage="calculus" alt=""/>
       <caption webpage="calculus" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="economics" alt=""/>
       <caption webpage="resources" alt=""/>
       <caption webpage="resources" alt=""/>
       <caption webpage="resources" alt=""/>
@@ -158,16 +158,16 @@
     </file>
     <file name="banner 13.jpg" crc="4168069249" seo="true" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:events:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok">
       <caption webpage="tok" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="economics" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-3" alt=""/>
       <caption webpage="core" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="misc" alt=""/>
       <caption webpage="further" alt=""/>
-      <caption webpage="events" alt=""/>
+      <caption webpage="biology" alt=""/>
       <caption webpage="cas-club" alt=""/>
       <caption webpage="physics" alt=""/>
       <caption webpage="history" alt=""/>
-      <caption webpage="misc" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="chemistry" alt=""/>
       <caption webpage="psychology" alt=""/>
       <caption webpage="statistics" alt=""/>
@@ -175,14 +175,14 @@
       <caption webpage="group-5" alt=""/>
       <caption webpage="literature" alt=""/>
       <caption webpage="calculus" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-3" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="economics" alt=""/>
       <caption webpage="resources" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="4256115032" seo="true" mt="1538015478227" redirect="true"/>
-  <file name="resources.html" crc="51617359" seo="true" mt="1538016210869" redirect="true"/>
+  <file name="resources.html" crc="4102597304" seo="true" mt="1538018221095" redirect="true"/>
   <file name="cas-club.html" crc="48939544" seo="true" mt="1538015478227" redirect="true"/>
   <file name="misc.html" crc="3884403666" seo="true" mt="1538015711381" redirect="true"/>
   <file name="group-1.html" crc="4138260489" seo="true" mt="1538015478227" redirect="true"/>
