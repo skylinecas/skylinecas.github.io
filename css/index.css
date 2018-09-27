@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EF;
-	background-color: #C667A0;
+	color: #000004;
+	background-color: #010983;
 }
 
 #muse_css_mq
@@ -34,17 +34,41 @@
 	max-width: 200px;
 }
 
-#ppu1198
+#ppu1227
 {
 	z-index: 0;
 	margin-right: -10000px;
+	margin-top: -65px;
 	width: 100.11%;
 }
 
-#pu1198
+#pu1227
 {
-	z-index: 7;
+	z-index: 2;
 	width: 99.9%;
+}
+
+#u1227
+{
+	z-index: 2;
+	min-height: 203px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u1227-bw
+{
+	z-index: 2;
+	min-height: 203px;
+	margin-top: 25px;
 }
 
 #u1198
@@ -54,7 +78,7 @@
 	min-height: 60px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 8px;
+	margin-top: 73px;
 	left: 7.3%;
 }
 
@@ -63,14 +87,27 @@
 	z-index: 9;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 65px;
 	width: 100%;
+}
+
+#u1474
+{
+	z-index: 11;
+	height: 66px;
+	position: relative;
+	margin-right: -10000px;
+	width: 20.84%;
+	left: 21.25%;
 }
 
 #menuu98
 {
-	z-index: 33;
+	z-index: 34;
 	position: relative;
-	width: 99.9%;
+	margin-right: -10000px;
+	margin-top: 165px;
+	width: 100%;
 }
 
 #u106
@@ -316,7 +353,7 @@
 
 #u322-9
 {
-	z-index: 11;
+	z-index: 12;
 	min-height: 98px;
 	background-color: transparent;
 	margin-top: 13px;
@@ -327,7 +364,7 @@
 
 #u1119
 {
-	z-index: 58;
+	z-index: 59;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -339,7 +376,7 @@
 
 #u1123-7
 {
-	z-index: 20;
+	z-index: 21;
 	min-height: 32px;
 	background-color: transparent;
 	margin-top: 37px;
@@ -350,7 +387,7 @@
 
 #u1207
 {
-	z-index: 59;
+	z-index: 60;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -362,7 +399,7 @@
 
 #u1210-6
 {
-	z-index: 27;
+	z-index: 28;
 	min-height: 32px;
 	background-color: transparent;
 	margin-top: 36px;
@@ -373,42 +410,19 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 808px);
-}
-
-#pu1193
-{
-	z-index: 6;
-	margin-bottom: -201px;
-	margin-right: -10000px;
-	margin-top: 64px;
-	width: 100%;
-}
-
-.js body
-{
-	visibility: hidden;
-}
-
-.js body.initialized
-{
-	visibility: visible;
-}
-
-#u1193,#u1193-bw
-{
-	z-index: 6;
-	min-height: 145px;
+	height: calc(100vh - 690px);
 }
 
 #u325-4
 {
-	z-index: 2;
+	z-index: 3;
 	min-height: 25px;
-	margin-top: 29px;
+	margin-bottom: -69px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 106px;
 	width: 95.94%;
-	margin-left: 2.09%;
+	left: 2.19%;
 }
 
 .html
@@ -421,7 +435,7 @@ body
 	position: relative;
 	min-width: 200px;
 	padding-top: 40px;
-	padding-bottom: 218px;
+	padding-bottom: 100px;
 }
 
 .verticalspacer

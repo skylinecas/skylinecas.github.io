@@ -1,3 +1,11 @@
+#u1474
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	max-width: 100000px;
+}
+
 #menuu98
 {
 	border-radius: 0px;
@@ -52,7 +60,7 @@
 	box-shadow: inset 2px 0px 2px rgba(255,255,255,0.04), inset -2px 0px 2px rgba(0,0,0,0.04);
 }
 
-#u1213,#u1198,#u111-4
+#u1213,#u1227,#u1198,#u111-4
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -225,11 +233,11 @@
 
 #u111-3,#u124-3,#u103-3,#u117-3
 {
+	line-height: 14px;
 	font-size: 12px;
 	letter-spacing: 5px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }
@@ -237,13 +245,6 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u1193
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
 }
 
 #u325-4
