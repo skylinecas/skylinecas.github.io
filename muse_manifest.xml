@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skylinecas.github.io" resolutions="1x" timestamp="1538189474219">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skylinecas.github.io" resolutions="1x" timestamp="1538190084992">
   <folder name="css">
     <file name="site_global.css" crc="246224940"/>
     <file name="master_resources.css" crc="272208180" ref="history:psychology:further:resources:group-5:core:economics:physics:tok:group-4:chemistry:literature:statistics:group-2:calculus:group-1:group-3:biology:computer-science"/>
@@ -47,8 +47,8 @@
   <folder name="images">
     <file name="favicon.ico" crc="7778443" ref="index:resources:literature:group-1:economics"/>
     <file name="banner 13.jpg" crc="4168069249" seo="true" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:events:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science">
+      <caption webpage="events" alt=""/>
       <caption webpage="literature" alt=""/>
-      <caption webpage="cas-club" alt=""/>
       <caption webpage="group-5" alt=""/>
       <caption webpage="group-4" alt=""/>
       <caption webpage="biology" alt=""/>
@@ -64,12 +64,12 @@
       <caption webpage="chemistry" alt=""/>
       <caption webpage="computer-science" alt=""/>
       <caption webpage="psychology" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="tok" alt=""/>
+      <caption webpage="cas-club" alt=""/>
+      <caption webpage="history" alt=""/>
       <caption webpage="physics" alt=""/>
       <caption webpage="further" alt=""/>
       <caption webpage="calculus" alt=""/>
-      <caption webpage="history" alt=""/>
+      <caption webpage="tok" alt=""/>
     </file>
     <file name="pasdf.png" crc="223653777" seo="true" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science">
       <caption webpage="economics" alt=""/>
@@ -218,7 +218,7 @@
     </file>
     <file name="u322-4.png" crc="3841283709" ref="index"/>
   </folder>
-  <file name="index.html" crc="4123244404" seo="true" mt="1538189467278" redirect="true"/>
+  <file name="index.html" crc="4227595401" seo="true" mt="1538189933988" redirect="true"/>
   <file name="resources.html" crc="3878119730" seo="true" mt="1538183644992" redirect="true"/>
   <file name="cas-club.html" crc="174375608" seo="true" mt="1538163233760" redirect="true"/>
   <file name="misc.html" crc="3768174848" seo="true" mt="1538163233760" redirect="true"/>
