@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E7;
-	background-color: #590580;
+	color: #00000B;
+	background-color: #416EF2;
 }
 
 #muse_css_mq
@@ -103,7 +103,7 @@
 
 #menuu98
 {
-	z-index: 36;
+	z-index: 35;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 165px;
@@ -351,42 +351,44 @@
 	margin-right: 6px;
 }
 
-#pu322-9
-{
-	z-index: 12;
-	margin-top: 13px;
-	width: 99.9%;
-}
-
-#u322-9
+#u322-4
 {
 	z-index: 12;
 	display: block;
 	vertical-align: top;
+	margin-top: 13px;
 	position: relative;
-	margin-right: -10000px;
-	width: 95.73%;
-	left: 2.19%;
+	margin-left: 2.19%;
+}
+
+#u2980-4
+{
+	z-index: 31;
+	min-height: 54px;
+	background-color: transparent;
+	margin-top: 1px;
+	position: relative;
+	width: 95.63%;
+	margin-left: 2.4%;
 }
 
 #u1119
 {
-	z-index: 61;
+	z-index: 60;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
+	margin-top: 13px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 102px;
-	width: 100%;
+	width: 99.9%;
 }
 
 #u1123-7
 {
-	z-index: 21;
+	z-index: 16;
 	min-height: 32px;
 	background-color: transparent;
-	margin-top: 23px;
+	margin-top: 36px;
 	position: relative;
 	width: 95.63%;
 	margin-left: 2.09%;
@@ -394,7 +396,7 @@
 
 #u1207
 {
-	z-index: 62;
+	z-index: 61;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -406,7 +408,7 @@
 
 #u1210-8
 {
-	z-index: 28;
+	z-index: 23;
 	min-height: 32px;
 	background-color: transparent;
 	margin-top: 36px;
@@ -417,7 +419,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 707px);
+	height: calc(100vh - 706px);
 }
 
 #u325-4
@@ -447,7 +449,7 @@ body
 
 .verticalspacer
 {
-	min-height: 32px;
+	min-height: 33px;
 }
 
 #u1217_img

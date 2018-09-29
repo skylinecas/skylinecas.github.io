@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skylinecas.github.io" resolutions="1x" timestamp="1538188767825">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skylinecas.github.io" resolutions="1x" timestamp="1538189474219">
   <folder name="css">
     <file name="site_global.css" crc="246224940"/>
     <file name="master_resources.css" crc="272208180" ref="history:psychology:further:resources:group-5:core:economics:physics:tok:group-4:chemistry:literature:statistics:group-2:calculus:group-1:group-3:biology:computer-science"/>
@@ -21,7 +21,7 @@
     <file name="statistics.css" crc="3762771257" ref="statistics"/>
     <file name="group-2.css" crc="3804846670" ref="group-2"/>
     <file name="calculus.css" crc="443021192" ref="calculus"/>
-    <file name="index.css" crc="3881371008" ref="index"/>
+    <file name="index.css" crc="188837618" ref="index"/>
     <file name="group-1.css" crc="4001925929" ref="group-1"/>
     <file name="group-3.css" crc="3761629561" ref="group-3"/>
     <file name="biology.css" crc="468227381" ref="biology"/>
@@ -216,9 +216,9 @@
       <caption webpage="group-4" alt=""/>
       <caption webpage="group-4" alt=""/>
     </file>
-    <file name="u322-9.png" crc="29457279" ref="index"/>
+    <file name="u322-4.png" crc="3841283709" ref="index"/>
   </folder>
-  <file name="index.html" crc="400226403" seo="true" mt="1538188727761" redirect="true"/>
+  <file name="index.html" crc="4123244404" seo="true" mt="1538189467278" redirect="true"/>
   <file name="resources.html" crc="3878119730" seo="true" mt="1538183644992" redirect="true"/>
   <file name="cas-club.html" crc="174375608" seo="true" mt="1538163233760" redirect="true"/>
   <file name="misc.html" crc="3768174848" seo="true" mt="1538163233760" redirect="true"/>
