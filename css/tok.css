@@ -1,7 +1,7 @@
 .version.tok /* version checker */
 {
-	color: #0000EF;
-	background-color: #53E189;
+	color: #0000E5;
+	background-color: #32C9CE;
 }
 
 #muse_css_mq
@@ -47,8 +47,6 @@
 {
 	z-index: 2;
 	width: 100%;
-	left: 0%;
-	margin-left: 0%;
 }
 
 #u1227
@@ -362,7 +360,6 @@
 	position: relative;
 	width: 32.71%;
 	margin-left: 33.65%;
-	left: 0px;
 }
 
 #u598
