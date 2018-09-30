@@ -1,7 +1,7 @@
 .version.group_2 /* version checker */
 {
-	color: #0000E2;
-	background-color: #C95A4E;
+	color: #000001;
+	background-color: #F8E746;
 }
 
 #muse_css_mq
@@ -54,7 +54,7 @@
 #u1227
 {
 	z-index: 2;
-	min-height: 203px;
+	min-height: 182px;
 }
 
 .js body
@@ -70,7 +70,7 @@
 #u1227-bw
 {
 	z-index: 2;
-	min-height: 203px;
+	min-height: 182px;
 	margin-top: 25px;
 }
 
@@ -85,23 +85,23 @@
 	left: 7.3%;
 }
 
-#u1217
-{
-	z-index: 9;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 65px;
-	width: 100%;
-}
-
 #u1474
 {
-	z-index: 11;
+	z-index: 9;
 	height: 66px;
 	position: relative;
 	margin-right: -10000px;
 	width: 20.84%;
 	left: 21.25%;
+}
+
+#u3019
+{
+	z-index: 10;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 65px;
+	width: 100%;
 }
 
 #menuu98
@@ -1047,7 +1047,7 @@ body
 	min-height: 1px;
 }
 
-#u2605_img,#u1217_img,#u807_img
+#u2605_img,#u3019_img,#u807_img
 {
 	width: 100%;
 }
