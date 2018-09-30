@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.untitled_24 /* version checker */
 {
-	color: #0000EA;
-	background-color: #8098FA;
+	color: #000016;
+	background-color: #A8A743;
 }
 
 #muse_css_mq
@@ -34,18 +34,12 @@
 	max-width: 200px;
 }
 
-#ppu1227
-{
-	z-index: 0;
-	margin-right: -10000px;
-	margin-top: -65px;
-	width: 100.11%;
-}
-
 #pu1227
 {
 	z-index: 2;
-	width: 99.9%;
+	margin-right: -10000px;
+	margin-top: -65px;
+	width: 100%;
 }
 
 #u1227
@@ -103,7 +97,7 @@
 
 #menuu98
 {
-	z-index: 38;
+	z-index: 12;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 165px;
@@ -351,123 +345,9 @@
 	margin-right: 6px;
 }
 
-#u322-4
-{
-	z-index: 12;
-	display: block;
-	vertical-align: top;
-	margin-top: 13px;
-	position: relative;
-	margin-left: 2.19%;
-}
-
-#u2980-4
-{
-	z-index: 31;
-	min-height: 54px;
-	background-color: transparent;
-	margin-top: 1px;
-	position: relative;
-	width: 95.63%;
-	margin-left: 2.4%;
-}
-
-#u1119
-{
-	z-index: 63;
-	height: 1px;
-	border-color: #000000;
-	background-color: #BEC3C3;
-	margin-top: 13px;
-	position: relative;
-	width: 99.9%;
-}
-
-#u1123-7
-{
-	z-index: 16;
-	min-height: 32px;
-	background-color: transparent;
-	margin-top: 36px;
-	position: relative;
-	width: 95.63%;
-	margin-left: 2.09%;
-}
-
-#u1207
-{
-	z-index: 64;
-	height: 1px;
-	border-color: #000000;
-	background-color: #BEC3C3;
-	margin-top: 37px;
-	position: relative;
-	width: 99.9%;
-	margin-left: 0.11%;
-}
-
-#u1210-8
-{
-	z-index: 23;
-	min-height: 32px;
-	background-color: transparent;
-	margin-top: 36px;
-	position: relative;
-	width: 95.63%;
-	margin-left: 2.19%;
-}
-
-#pu3007
-{
-	z-index: 35;
-	margin-top: 21px;
-	width: 64.52%;
-	margin-left: 2.71%;
-}
-
-#u3007
-{
-	z-index: 35;
-	min-height: 100px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 16px;
-	width: 32.26%;
-}
-
-#u3011
-{
-	z-index: 36;
-	min-height: 100px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 12px;
-	width: 32.26%;
-	left: 35%;
-}
-
-#u3015
-{
-	z-index: 37;
-	min-height: 100px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	width: 32.26%;
-	left: 67.75%;
-}
-
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 844px);
+	height: calc(100vh - 399px);
 }
 
 #u325-4
@@ -497,11 +377,12 @@ body
 
 .verticalspacer
 {
-	min-height: 1px;
+	min-height: 341px;
 }
 
 #u3019_img
 {
 	width: 100%;
 }
+
 
