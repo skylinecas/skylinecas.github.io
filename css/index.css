@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EA;
-	background-color: #8098FA;
+	color: #0000E6;
+	background-color: #730006;
 }
 
 #muse_css_mq
@@ -103,7 +103,7 @@
 
 #menuu98
 {
-	z-index: 38;
+	z-index: 36;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 165px;
@@ -351,14 +351,35 @@
 	margin-right: 6px;
 }
 
+#pu322-4
+{
+	z-index: 12;
+	margin-top: 10px;
+	width: 52.87%;
+	margin-left: 2.19%;
+}
+
 #u322-4
 {
 	z-index: 12;
 	display: block;
 	vertical-align: top;
-	margin-top: 13px;
 	position: relative;
-	margin-left: 2.19%;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u3015
+{
+	z-index: 35;
+	min-height: 32px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 39.38%;
+	left: 60.63%;
 }
 
 #u2980-4
@@ -374,7 +395,7 @@
 
 #u1119
 {
-	z-index: 63;
+	z-index: 61;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -396,7 +417,7 @@
 
 #u1207
 {
-	z-index: 64;
+	z-index: 62;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -417,57 +438,9 @@
 	margin-left: 2.19%;
 }
 
-#pu3007
-{
-	z-index: 35;
-	margin-top: 21px;
-	width: 64.52%;
-	margin-left: 2.71%;
-}
-
-#u3007
-{
-	z-index: 35;
-	min-height: 100px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 16px;
-	width: 32.26%;
-}
-
-#u3011
-{
-	z-index: 36;
-	min-height: 100px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 12px;
-	width: 32.26%;
-	left: 35%;
-}
-
-#u3015
-{
-	z-index: 37;
-	min-height: 100px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	width: 32.26%;
-	left: 67.75%;
-}
-
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 844px);
+	height: calc(100vh - 706px);
 }
 
 #u325-4
@@ -497,7 +470,7 @@ body
 
 .verticalspacer
 {
-	min-height: 1px;
+	min-height: 33px;
 }
 
 #u3019_img
