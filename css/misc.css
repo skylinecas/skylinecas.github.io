@@ -1,7 +1,7 @@
 .version.misc /* version checker */
 {
-	color: #000005;
-	background-color: #851AEB;
+	color: #0000FB;
+	background-color: #902340;
 }
 
 #muse_css_mq
@@ -38,7 +38,7 @@
 {
 	z-index: 0;
 	margin-right: -10000px;
-	margin-top: -65px;
+	margin-top: -101px;
 	width: 100%;
 }
 
@@ -68,7 +68,9 @@
 {
 	z-index: 2;
 	min-height: 182px;
-	margin-top: 25px;
+	margin-top: 61px;
+	left: 0px;
+	margin-left: 0px;
 }
 
 #u1198
@@ -78,8 +80,9 @@
 	min-height: 60px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 73px;
+	margin-top: 109px;
 	left: 7.3%;
+	margin-left: 0%;
 }
 
 #u1474
@@ -88,8 +91,10 @@
 	height: 66px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 36px;
 	width: 20.84%;
 	left: 21.25%;
+	margin-left: 0%;
 }
 
 #u3019
@@ -97,17 +102,35 @@
 	z-index: 10;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 65px;
+	margin-top: 101px;
 	width: 100%;
+	left: 0%;
+	margin-left: 0%;
+}
+
+#u3050
+{
+	z-index: 34;
+	width: 210px;
+	min-height: 98px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 404px;
+	margin-left: 0px;
 }
 
 #menuu98
 {
-	z-index: 16;
+	z-index: 35;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 165px;
+	margin-top: 201px;
 	width: 100%;
+	left: 0%;
+	margin-left: 0%;
 }
 
 #u106
@@ -351,7 +374,7 @@
 	margin-right: 6px;
 }
 
-#u1471-4
+#u1471-22
 {
 	z-index: 12;
 	min-height: 97px;
@@ -359,12 +382,13 @@
 	margin-top: 12px;
 	position: relative;
 	width: 95.63%;
+	left: 0%;
 	margin-left: 2.19%;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 508px);
+	height: calc(100vh - 581px);
 }
 
 #u325-4
@@ -394,11 +418,12 @@ body
 
 .verticalspacer
 {
-	min-height: 232px;
+	min-height: 159px;
 }
 
 #u3019_img
 {
 	width: 100%;
 }
+
 
