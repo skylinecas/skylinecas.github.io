@@ -1,7 +1,7 @@
 .version.chemistry /* version checker */
 {
-	color: #000008;
-	background-color: #069447;
+	color: #0000EB;
+	background-color: #9116EF;
 }
 
 #muse_css_mq
@@ -51,7 +51,7 @@
 #u1227
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 }
 
 .js body
@@ -67,7 +67,7 @@
 #u1227-bw
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 	margin-top: 25px;
 }
 

@@ -1,7 +1,7 @@
 .version.group_1 /* version checker */
 {
-	color: #0000F3;
-	background-color: #52492B;
+	color: #00000E;
+	background-color: #C1B10B;
 }
 
 #muse_css_mq
@@ -54,7 +54,7 @@
 #u1227
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 }
 
 .js body
@@ -70,7 +70,7 @@
 #u1227-bw
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 	margin-top: 25px;
 }
 
@@ -365,9 +365,9 @@
 {
 	z-index: 13;
 	margin-right: -10000px;
-	margin-top: 106px;
-	width: 80.58%;
-	margin-left: 112.58%;
+	margin-top: 168px;
+	width: 99.37%;
+	margin-left: 103.19%;
 }
 
 #buttonu2794
@@ -379,9 +379,9 @@
 	background-color: #EDEDED;
 	position: relative;
 	margin-right: -10000px;
-	width: 98.42%;
-	margin-left: 0.8%;
-	left: -1.499999897877153px;
+	width: 98.72%;
+	margin-left: 0.65%;
+	left: -1.9999999234078305px;
 	border-width: 0px 2px;
 }
 
@@ -395,9 +395,9 @@
 	margin-right: -10000px;
 	margin-top: 0px;
 	min-height: 0px;
-	width: 99.21%;
-	margin-left: 0.4%;
-	left: 0.5000001021228471px;
+	width: 99.36%;
+	margin-left: 0.33%;
+	left: 7.65921694956262e-8px;
 }
 
 #u2795-4
@@ -406,7 +406,7 @@
 	min-height: 24px;
 	background-color: transparent;
 	text-align: center;
-	width: 49%;
+	width: 97.41%;
 }
 
 #pbuttonu2794:hover #u2795-4
@@ -415,10 +415,10 @@
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 31px;
+	margin-top: 28px;
 	min-height: 24px;
-	width: 49%;
-	left: 25.71%;
+	width: 97.41%;
+	left: 0.98%;
 }
 
 #pbuttonu2794.ButtonSelected #u2795-4
@@ -426,7 +426,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 24px;
-	width: 49%;
+	width: 97.41%;
 }
 
 #pbuttonu2794:hover #u2795-4 p,#pbuttonu2794:hover #u2795-4 span
@@ -458,15 +458,15 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 31px;
-	left: 25.31%;
+	margin-top: 28px;
+	left: 0.65%;
 }
 
 #u2798
 {
 	z-index: 18;
 	background-color: transparent;
-	width: 8.04%;
+	width: 6.5%;
 }
 
 #pbuttonu2794:hover #u2798
@@ -474,21 +474,21 @@
 	position: relative;
 	margin-right: -10000px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.19%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
 #pbuttonu2794.ButtonSelected #u2798
 {
 	min-height: 0px;
-	width: 8.04%;
+	width: 6.5%;
 }
 
 #pbuttonu2794 #u2798
 {
 	position: relative;
 	margin-right: -10000px;
-	left: 45.79%;
+	left: 47.41%;
 }
 
 #u2796
@@ -498,7 +498,7 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	width: 8.04%;
+	width: 6.5%;
 }
 
 #pbuttonu2794:hover #u2796
@@ -508,9 +508,10 @@
 	filter: alpha(opacity=100);
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.59%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
 #pbuttonu2794.ButtonSelected #u2796
@@ -519,14 +520,15 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	min-height: 0px;
-	width: 8.04%;
+	width: 6.5%;
 }
 
 #pbuttonu2794 #u2796
 {
 	position: relative;
 	margin-right: -10000px;
-	left: 46.19%;
+	margin-top: 1px;
+	left: 47.41%;
 }
 
 #pamphletu593

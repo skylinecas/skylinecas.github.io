@@ -165,6 +165,17 @@
 	visibility: inherit;
 }
 
+#u124-3,#u103-3
+{
+	font-size: 12px;
+	letter-spacing: 4px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
 #u3019,#u106,#u120,#u99,#u113
 {
 	background-color: transparent;
@@ -231,13 +242,13 @@
 	font-style: normal;
 }
 
-#u111-3,#u124-3,#u103-3,#u117-3
+#u111-3,#u117-3
 {
-	line-height: 14px;
 	font-size: 12px;
 	letter-spacing: 5px;
 	text-align: center;
 	color: #FFFFFF;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }

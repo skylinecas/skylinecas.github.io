@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000006;
-	background-color: #7FD5A7;
+	color: #000014;
+	background-color: #321D68;
 }
 
 #muse_css_mq
@@ -51,7 +51,7 @@
 #u1227
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 }
 
 .js body
@@ -67,7 +67,7 @@
 #u1227-bw
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 	margin-top: 25px;
 }
 
@@ -103,7 +103,7 @@
 
 #menuu98
 {
-	z-index: 38;
+	z-index: 40;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 165px;
@@ -362,13 +362,8 @@
 #u322-4
 {
 	z-index: 12;
-	width: 425px;
-	min-height: 33px;
-	background-color: transparent;
-	line-height: 31px;
-	font-size: 26px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
@@ -376,7 +371,7 @@
 
 #u3015
 {
-	z-index: 37;
+	z-index: 39;
 	min-height: 32px;
 	border-width: 0px;
 	border-color: transparent;
@@ -389,7 +384,7 @@
 
 #u2980-4
 {
-	z-index: 33;
+	z-index: 35;
 	min-height: 54px;
 	background-color: transparent;
 	margin-top: 1px;
@@ -400,7 +395,7 @@
 
 #u1119
 {
-	z-index: 63;
+	z-index: 65;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -422,7 +417,7 @@
 
 #u1207
 {
-	z-index: 64;
+	z-index: 66;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -432,7 +427,7 @@
 	margin-left: 0.11%;
 }
 
-#u1210-10
+#u1210-12
 {
 	z-index: 23;
 	min-height: 32px;
@@ -445,17 +440,17 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 723px);
+	height: calc(100vh - 739px);
 }
 
 #u325-4
 {
 	z-index: 3;
 	min-height: 25px;
-	margin-bottom: -69px;
+	margin-bottom: -68px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 106px;
+	margin-top: 105px;
 	width: 95.94%;
 	left: 2.19%;
 }
@@ -475,7 +470,7 @@ body
 
 .verticalspacer
 {
-	min-height: 16px;
+	min-height: 1px;
 }
 
 #u3019_img

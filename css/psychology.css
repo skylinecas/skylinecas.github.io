@@ -1,7 +1,7 @@
 .version.psychology /* version checker */
 {
-	color: #0000E4;
-	background-color: #91EDC3;
+	color: #0000E6;
+	background-color: #E3AB67;
 }
 
 #muse_css_mq
@@ -52,7 +52,7 @@
 #u1227
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 }
 
 .js body
@@ -68,7 +68,7 @@
 #u1227-bw
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 	margin-top: 25px;
 }
 

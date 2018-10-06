@@ -1,7 +1,7 @@
 .version.physics /* version checker */
 {
-	color: #000013;
-	background-color: #E26536;
+	color: #00001E;
+	background-color: #D9C1AD;
 }
 
 #muse_css_mq
@@ -51,7 +51,7 @@
 #u1227
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 }
 
 .js body
@@ -67,7 +67,7 @@
 #u1227-bw
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 	margin-top: 25px;
 }
 
@@ -1044,5 +1044,4 @@ body
 {
 	width: 100%;
 }
-
 

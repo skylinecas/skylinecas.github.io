@@ -1,7 +1,7 @@
 .version.scholarships /* version checker */
 {
-	color: #000006;
-	background-color: #3A86ED;
+	color: #0000F6;
+	background-color: #BC32B0;
 }
 
 #muse_css_mq
@@ -53,7 +53,7 @@
 #u1227
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 }
 
 .js body
@@ -69,7 +69,7 @@
 #u1227-bw
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 	margin-top: 25px;
 }
 
@@ -105,7 +105,7 @@
 
 #menuu98
 {
-	z-index: 55;
+	z-index: 61;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 165px;
@@ -355,7 +355,7 @@
 
 #u3177-4
 {
-	z-index: 50;
+	z-index: 56;
 	min-height: 30px;
 	background-color: transparent;
 	margin-top: 7px;
@@ -365,208 +365,202 @@
 	margin-left: 2.29%;
 }
 
-#pbuttonu3097
+#pbuttonu3556
 {
-	z-index: 81;
-	margin-top: 46px;
-	width: 26.33%;
-	margin-left: 36.79%;
+	z-index: 87;
+	margin-top: 47px;
+	width: 32.47%;
+	margin-left: 33.72%;
 }
 
-#buttonu3097
+#buttonu3556
 {
-	z-index: 81;
+	z-index: 87;
 	height: 55px;
 	position: relative;
 	margin-right: -10000px;
-	width: 98.42%;
-	margin-left: 0.8%;
-	left: -1.4999999999999432px;
+	width: 98.72%;
+	margin-left: 0.65%;
+	left: -1px;
 }
 
-#u3102-4
-{
-	z-index: 82;
-	min-height: 24px;
-	width: 49%;
-}
-
-#pbuttonu3097:hover #u3102-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 31px;
-	min-height: 24px;
-	width: 49%;
-	left: 25.71%;
-}
-
-#pbuttonu3097.ButtonSelected #u3102-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 24px;
-	width: 49%;
-}
-
-#pbuttonu3097 #u3102-4
-{
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 31px;
-	left: 25.31%;
-}
-
-#u3098
-{
-	z-index: 86;
-	width: 8.04%;
-}
-
-#pbuttonu3097:hover #u3098
-{
-	position: relative;
-	margin-right: -10000px;
-	min-height: 0px;
-	width: 8.04%;
-	left: 46.19%;
-}
-
-#u3100
+#u3561-4
 {
 	z-index: 88;
-	width: 8.04%;
+	min-height: 24px;
+	width: 99.36%;
 }
 
-#pbuttonu3097:hover #u3100
+#pbuttonu3556:hover #u3561-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	min-height: 24px;
+	width: 99.36%;
+	left: 0.33%;
+}
+
+#pbuttonu3556 #u3561-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+}
+
+#u3557
+{
+	z-index: 92;
+	width: 6.5%;
+}
+
+#pbuttonu3556:hover #u3557
 {
 	position: relative;
 	margin-right: -10000px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.59%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
-#pbuttonu3103
+#u3559
 {
-	z-index: 92;
-	width: 26.33%;
-	margin-left: 36.79%;
+	z-index: 94;
+	width: 6.5%;
 }
 
-#buttonu3103
+#pbuttonu3556:hover #u3559
 {
-	z-index: 92;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	min-height: 0px;
+	width: 6.5%;
+	left: 47.73%;
+}
+
+#pbuttonu3562
+{
+	z-index: 98;
+	margin-top: -1px;
+	width: 32.47%;
+	margin-left: 33.72%;
+}
+
+#buttonu3562
+{
+	z-index: 98;
 	height: 55px;
 	position: relative;
 	margin-right: -10000px;
-	width: 98.42%;
-	margin-left: 0.8%;
-	left: -1.4999999999999432px;
+	width: 98.72%;
+	margin-left: 0.65%;
+	left: -1px;
 }
 
-#pbuttonu3097:hover #buttonu3097,#pbuttonu3103:hover #buttonu3103
+#pbuttonu3556:hover #buttonu3556,#pbuttonu3562:hover #buttonu3562
 {
 	height: 55px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 0px;
 	min-height: 0px;
-	width: 99.21%;
-	margin-left: 0.4%;
-	left: 0.5000000000000568px;
+	width: 99.36%;
+	margin-left: 0.33%;
+	left: 1px;
 }
 
-#u3108-4
-{
-	z-index: 93;
-	min-height: 24px;
-	width: 76.31%;
-}
-
-#pbuttonu3103:hover #u3108-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 31px;
-	min-height: 24px;
-	width: 76.31%;
-	left: 14.86%;
-}
-
-#pbuttonu3103.ButtonSelected #u3108-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 24px;
-	width: 76.31%;
-}
-
-#pbuttonu3103 #u3108-4
-{
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 31px;
-	left: 14.46%;
-}
-
-#u3106
-{
-	z-index: 97;
-	width: 8.04%;
-}
-
-#pbuttonu3103:hover #u3106
-{
-	position: relative;
-	margin-right: -10000px;
-	min-height: 0px;
-	width: 8.04%;
-	left: 46.19%;
-}
-
-#pbuttonu3097 #u3098,#pbuttonu3103 #u3106
-{
-	position: relative;
-	margin-right: -10000px;
-	left: 45.79%;
-}
-
-#u3104
+#u3565-4
 {
 	z-index: 99;
-	width: 8.04%;
+	min-height: 24px;
+	width: 99.36%;
 }
 
-#pbuttonu3103:hover #u3104
+#pbuttonu3562:hover #u3565-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	min-height: 24px;
+	width: 99.36%;
+	left: 0.33%;
+}
+
+#pbuttonu3556.ButtonSelected #u3561-4,#pbuttonu3562.ButtonSelected #u3565-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 99.36%;
+}
+
+#pbuttonu3562 #u3565-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+}
+
+#u3566
+{
+	z-index: 103;
+	width: 6.5%;
+}
+
+#pbuttonu3562:hover #u3566
 {
 	position: relative;
 	margin-right: -10000px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.59%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
-#pbuttonu3097.ButtonSelected #u3098,#pbuttonu3097.ButtonSelected #u3100,#pbuttonu3103.ButtonSelected #u3106,#pbuttonu3103.ButtonSelected #u3104
-{
-	min-height: 0px;
-	width: 8.04%;
-}
-
-#pbuttonu3097 #u3100,#pbuttonu3103 #u3104
+#pbuttonu3556 #u3557,#pbuttonu3562 #u3566
 {
 	position: relative;
 	margin-right: -10000px;
-	left: 46.19%;
+	left: 47.41%;
+}
+
+#u3563
+{
+	z-index: 105;
+	width: 6.5%;
+}
+
+#pbuttonu3562:hover #u3563
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	min-height: 0px;
+	width: 6.5%;
+	left: 47.73%;
+}
+
+#pbuttonu3556.ButtonSelected #u3557,#pbuttonu3556.ButtonSelected #u3559,#pbuttonu3562.ButtonSelected #u3566,#pbuttonu3562.ButtonSelected #u3563
+{
+	min-height: 0px;
+	width: 6.5%;
+}
+
+#pbuttonu3556 #u3559,#pbuttonu3562 #u3563
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 47.41%;
 }
 
 #u3183
 {
-	z-index: 54;
+	z-index: 60;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -577,7 +571,7 @@
 	margin-left: 0.11%;
 }
 
-#u3072-38
+#u3072-44
 {
 	z-index: 12;
 	min-height: 199px;
@@ -591,7 +585,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 1044px);
+	height: calc(100vh - 1112px);
 }
 
 #u325-4
@@ -624,7 +618,7 @@ body
 	min-height: 1px;
 }
 
-#u3019_img,#u3098_img,#u3100_img,#u3106_img,#u3104_img
+#u3019_img,#u3557_img,#u3559_img,#u3566_img,#u3563_img
 {
 	width: 100%;
 }

@@ -1,7 +1,7 @@
 .version.economics /* version checker */
 {
-	color: #0000FD;
-	background-color: #B1B23F;
+	color: #00001E;
+	background-color: #6B0442;
 }
 
 #muse_css_mq
@@ -52,7 +52,7 @@
 #u1227
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 }
 
 .js body
@@ -68,7 +68,7 @@
 #u1227-bw
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 	margin-top: 25px;
 }
 

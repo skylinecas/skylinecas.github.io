@@ -18,9 +18,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Resources</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=246224940"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3824428290"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4125339486"/>
   <link rel="stylesheet" type="text/css" href="css/master_resources.css?crc=272208180"/>
-  <link rel="stylesheet" type="text/css" href="css/resources.css?crc=162407635" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/resources.css?crc=4290078289" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -345,14 +345,13 @@ to use and available for download at: http://adobemuseexpert.com/
      <p>Welcome to the resources section of the CAS website!</p>
      <p>&nbsp;</p>
     </div>
-    <div class="clearfix colelem" id="pu580-49"><!-- group -->
-     <div class="clearfix grpelem" id="u580-49"><!-- content -->
+    <div class="clearfix colelem" id="pu580-48"><!-- group -->
+     <div class="clearfix grpelem" id="u580-48"><!-- content -->
       <p>Spanish/French</p>
       <p><a class="nonblock" href="http://DeepL.com">DeepL</a>- best translater in the world! Apparently much better than google translate</p>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
       <p>Class-wide resources:</p>
-      <p>&nbsp;</p>
       <p>&nbsp;</p>
       <p><a class="nonblock" href="http://ibdocuments.com/">IBRESOURCES</a>- Has like everything from past papers, questionbanks, extended essay examples, etc</p>
       <p>&nbsp;</p>
@@ -377,248 +376,6 @@ to use and available for download at: http://adobemuseexpert.com/
       <p><a class="nonblock" href="https://docs.google.com/forms/d/e/1FAIpQLSfhMsmhoeBwgYAsKBpIXsf2ydsUkV99sTFY6fdB4tPbDNnzzA/viewform">2020 ib CAS form</a></p>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
-     </div>
-     <div class="grpelem" id="u1938"><!-- custom html -->
-          <p>
-
-        Video Game Trivia
-
-        <br />
-
-        Asking question <span id="NumberAsked">1</span> of 10 with <span id="NumberCorrect">0</span> answers correct</p>
-
-    <p>
-
-        <span id="TriviaQuestion">???</span>
-
-    </p>
-
-    <p>
-
-        &nbsp;
-
-        <input id="RadioTrue" type="radio" value="true" name="answer" checked="checked" /> True
-
-        &nbsp;&nbsp;&nbsp;
-
-        <input id="RadioFalse" type="radio" value="false" name="answer" /> False
-
-    </p>
-
-    <p>
-
-        <input id="ButtonContinue" onclick="checkAnswer();" type="button" value="continue" />
-
-    </p>
-
- 
-
-    <script language="javascript" type="text/javascript">
-
-        // Array of trivia data
-
-        var TriviaData = new Array(10)
-
-        createTwoDimensionalArray(3);
-
- 
-
-        // Variables to track state of the game
-
-        // i.e. number questions asked, current correct total and current question
-
-        var questionsAsked = 0;
-
-        var totalCorrect = 0;
-
-        var currentQuestion = 0;
-
-        var selectionValid = false;
-
- 
-
-        // Questions
-
-        TriviaData[0][0] = "Donkey Kong, Pac-Man and Tempest were all released in the same year.";
-
-        TriviaData[1][0] = "Capcom is a Chinese company.";
-
-        TriviaData[2][0] = "Othello was the first arcade game released by Nintendo.";
-
-        TriviaData[3][0] = "The Atari 2600 video game system was first released in 1975.";
-
-        TriviaData[4][0] = "The Sega Saturn game system was released first in the U.S. in 1995.";
-
-        TriviaData[5][0] = "The legendary game Doom was released in 1993 for the PC.";
-
-        TriviaData[6][0] = "Dragon's Lair was the first arcade game to feature laser-disc technology.";
-
-        TriviaData[7][0] = "In 1990, Nintendo and Sega went to court over the rights to Tetris.";
-
-        TriviaData[8][0] = "In 1996 Nintendo sells its billionth cartridge worldwide.";
-
-        TriviaData[9][0] = "Microsoft first released the Xbox gaming system worldwide in 2001.";
-
-   
-
-        // Answers
-
-        TriviaData[0][1] = "true";
-
-        TriviaData[1][1] = "false";
-
-        TriviaData[2][1] = "true";
-
-        TriviaData[3][1] = "false";
-
-        TriviaData[4][1] = "false";
-
-        TriviaData[5][1] = "true";
-
-        TriviaData[6][1] = "true";
-
-        TriviaData[7][1] = "false";
-
-        TriviaData[8][1] = "true";
-
-        TriviaData[9][1] = "false";
-
- 
-
-        // Has question been asked
-
-        // -- necessary because we are asking in random order
-
-        TriviaData[0][2] = "no";
-
-        TriviaData[1][2] = "no";
-
-        TriviaData[2][2] = "no";
-
-        TriviaData[3][2] = "no";
-
-        TriviaData[4][2] = "no";
-
-        TriviaData[5][2] = "no";
-
-        TriviaData[6][2] = "no";
-
-        TriviaData[7][2] = "no";
-
-        TriviaData[8][2] = "no";
-
-        TriviaData[9][2] = "no";
-
- 
-
-        // Load up first question
-
-        setQuestion();
-
- 
-
-        // Sets question text and indicator so that we know the question has been displayed
-
-        function setQuestion() {
-
-            selectionValid = false; // Flag to make sure question has not been asked yet
-
-            while (selectionValid == false) {
-
-                currentQuestion = Math.floor(Math.random() * 10); // randomly select starting question
-
-                if (TriviaData[currentQuestion][2] == "no") {
-
-                    selectionValid = true;
-
-                }
-
-            }
-
-            document.getElementById("TriviaQuestion").innerHTML = TriviaData[currentQuestion][0];
-
-            TriviaData[currentQuestion][2] = "yes";
-
-            questionsAsked = questionsAsked + 1;
-
-        }
-
- 
-
-        function processAnswer(myAnswer) {
-
-            if (TriviaData[currentQuestion][1] == myAnswer) {
-
-                // answer correct
-
-                totalCorrect = totalCorrect + 1;
-
-            }
-
-        }
-
- 
-
-        // This function creates our two dimensional array
-
-        function createTwoDimensionalArray(arraySize) {
-
-            for (i = 0; i < TriviaData.length; ++i)
-
-                TriviaData[i] = new Array(arraySize);
-
-        }
-
- 
-
-        // This function checks the answer, updates correct total
-
-        // and randomly selects the next question
-
-        function checkAnswer() {
-
-            if (document.getElementById("RadioTrue").checked) {
-
-                processAnswer("true");
-
-            }
-
-            else {
-
-                processAnswer("false");
-
-            }
-
-            // get next question if not asked all yet
-
-            if (questionsAsked < 10) {
-
-                setQuestion();
-
-            }
-
-            // final question asked - disable button and show final results
-
-            else {
-
-                alert("Quiz complete! You got " + totalCorrect + " correct out of 10.");
-
-                document.getElementById("ButtonContinue").disabled = true;
-
-            }
-
-            // update totals
-
-            document.getElementById("NumberAsked").innerHTML = questionsAsked;
-
-            document.getElementById("NumberCorrect").innerHTML = totalCorrect;
-
-        }
-
- 
-
-    </script>
-
      </div>
      <div class="PamphletWidget clearfix allow_click_through grpelem" id="pamphletu593" data-visibility="changed" style="visibility:hidden"><!-- none box -->
       <div class="ThumbGroup clearfix colelem" data-col-pos="1" id="u598"><!-- none box -->
@@ -648,7 +405,7 @@ to use and available for download at: http://adobemuseexpert.com/
      </div>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="986" data-content-above-spacer="1026" data-content-below-spacer="162" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="795" data-content-above-spacer="957" data-content-below-spacer="161" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    <div class="clearfix grpelem" id="u325-4"><!-- content -->
     <p>Webdesign: Jeff Chen</p>
    </div>

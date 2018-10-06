@@ -1,41 +1,42 @@
-#buttonu3097
+#buttonu3556
 {
 	border-style: solid;
-	border-color: #A67C52;
+	border-color: #8C6239;
 	background-color: #EDEDED;
 	border-width: 0px 2px;
 }
 
-#u3102-4
+#u3561-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#pbuttonu3097:hover #u3102-4 p,#pbuttonu3097:hover #u3102-4 span
+#pbuttonu3556:hover #u3561-4 p,#pbuttonu3556:hover #u3561-4 span
 {
 	color: #2C2C2C;
 	visibility: inherit;
 }
 
-#u3102-2
+#u3561-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#pbuttonu3097:hover #u3102-4 p
+#u3561
 {
-	color: #2C2C2C;
-	visibility: inherit;
+	font-size: 13px;
+	color: #000000;
+	line-height: 16px;
 }
 
-#u3098
+#u3557
 {
 	background-color: transparent;
 }
 
-#u3100
+#u3559
 {
 	background-color: transparent;
 	opacity: 0;
@@ -43,14 +44,14 @@
 	filter: alpha(opacity=0);
 }
 
-#pbuttonu3097:hover #u3100
+#pbuttonu3556:hover #u3559
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 }
 
-#buttonu3103
+#buttonu3562
 {
 	border-style: solid;
 	border-color: #ED1C24;
@@ -58,56 +59,51 @@
 	border-width: 0px 2px;
 }
 
-#pbuttonu3097:hover #buttonu3097,#pbuttonu3103:hover #buttonu3103
+#pbuttonu3556:hover #buttonu3556,#pbuttonu3562:hover #buttonu3562
 {
 	border-width: 0px;
 	border-color: transparent;
 	background-color: #EDEDED;
 }
 
-#u3108-4
+#u3565-4
 {
 	background-color: transparent;
 	text-align: center;
 }
 
-#pbuttonu3103:hover #u3108-4 p,#pbuttonu3103:hover #u3108-4 span
+#pbuttonu3562:hover #u3565-4 p,#pbuttonu3562:hover #u3565-4 span
 {
 	color: #2C2C2C;
 	visibility: inherit;
 }
 
-#u3108-2
+#pbuttonu3556.ButtonSelected #u3561-4 p,#pbuttonu3556.ButtonSelected #u3561-4 span,#pbuttonu3562.ButtonSelected #u3565-4 p,#pbuttonu3562.ButtonSelected #u3565-4 span
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u3565-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u3102,#u3108
+#u3565
 {
 	font-size: 13px;
+	letter-spacing: 2px;
 	color: #000000;
 	line-height: 16px;
 }
 
-#pbuttonu3103:hover #u3108-4 p
-{
-	color: #2C2C2C;
-	visibility: inherit;
-}
-
-#pbuttonu3097.ButtonSelected #u3102-4 p,#pbuttonu3097.ButtonSelected #u3102-4 span,#pbuttonu3097.ButtonSelected #u3102-4 p,#pbuttonu3103.ButtonSelected #u3108-4 p,#pbuttonu3103.ButtonSelected #u3108-4 span,#pbuttonu3103.ButtonSelected #u3108-4 p
-{
-	color: #000000;
-	visibility: inherit;
-}
-
-#u3106
+#u3566
 {
 	background-color: transparent;
 }
 
-#u3104
+#u3563
 {
 	background-color: transparent;
 	opacity: 0;
@@ -115,14 +111,14 @@
 	filter: alpha(opacity=0);
 }
 
-#pbuttonu3103:hover #u3104
+#pbuttonu3562:hover #u3563
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 }
 
-#pbuttonu3097.ButtonSelected #u3100,#pbuttonu3103.ButtonSelected #u3104
+#pbuttonu3556.ButtonSelected #u3559,#pbuttonu3562.ButtonSelected #u3563
 {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";

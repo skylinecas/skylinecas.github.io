@@ -1,7 +1,7 @@
 .version.group_4 /* version checker */
 {
-	color: #0000EA;
-	background-color: #C09B12;
+	color: #00001B;
+	background-color: #141A8D;
 }
 
 #muse_css_mq
@@ -54,7 +54,7 @@
 #u1227
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 }
 
 .js body
@@ -70,7 +70,7 @@
 #u1227-bw
 {
 	z-index: 2;
-	min-height: 182px;
+	min-height: 163px;
 	margin-top: 25px;
 }
 
@@ -354,112 +354,129 @@
 	margin-right: 6px;
 }
 
-#ppbuttonu2838
+#ppbuttonu3336
 {
 	z-index: 12;
 	margin-top: 59px;
 	width: 32.71%;
 }
 
-#pbuttonu2838
+#pbuttonu3336
 {
 	z-index: 13;
 	margin-right: -10000px;
-	margin-top: 90px;
-	width: 80.58%;
-	margin-left: 112.58%;
+	margin-top: 189px;
+	width: 99.37%;
+	margin-left: 103.19%;
 }
 
-#buttonu2838
+#buttonu3336
 {
 	z-index: 13;
 	height: 55px;
 	border-style: solid;
-	border-color: #A67C52;
+	border-color: #8C6239;
 	background-color: #EDEDED;
 	position: relative;
 	margin-right: -10000px;
-	width: 98.42%;
-	margin-left: 0.8%;
-	left: -1.499999897877153px;
+	width: 98.72%;
+	margin-left: 0.65%;
+	left: -0.9999999234078303px;
 	border-width: 0px 2px;
 }
 
-#u2839-4
+#u3339-4
 {
 	z-index: 14;
 	min-height: 24px;
 	background-color: transparent;
 	text-align: center;
-	width: 49%;
+	width: 87.67%;
 }
 
-#pbuttonu2838:hover #u2839-4
+#pbuttonu3336:hover #u3339-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 31px;
+	margin-top: 19px;
 	min-height: 24px;
-	width: 49%;
-	left: 25.71%;
+	width: 87.67%;
+	left: 7.15%;
 }
 
-#pbuttonu2838:hover #u2839-4 p,#pbuttonu2838:hover #u2839-4 span
+#pbuttonu3336.ButtonSelected #u3339-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 87.67%;
+}
+
+#pbuttonu3336:hover #u3339-4 p,#pbuttonu3336:hover #u3339-4 span
 {
 	color: #2C2C2C;
 	visibility: inherit;
 }
 
-#u2842
+#pbuttonu3336 #u3339-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 6.82%;
+}
+
+#u3340
 {
 	z-index: 18;
 	background-color: transparent;
-	width: 8.04%;
+	width: 6.5%;
 }
 
-#pbuttonu2838:hover #u2842
+#pbuttonu3336:hover #u3340
 {
 	position: relative;
 	margin-right: -10000px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.19%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
-#u2840
+#u3337
 {
 	z-index: 20;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	width: 8.04%;
+	width: 6.5%;
 }
 
-#pbuttonu2838:hover #u2840
+#pbuttonu3336:hover #u3337
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.59%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
-#pbuttonu2844
+#pbuttonu3342
 {
 	z-index: 24;
 	margin-right: -10000px;
-	margin-top: 145px;
-	width: 80.58%;
-	margin-left: 112.58%;
+	margin-top: 243px;
+	width: 99.37%;
+	margin-left: 103.19%;
 }
 
-#buttonu2844
+#buttonu3342
 {
 	z-index: 24;
 	height: 55px;
@@ -468,207 +485,225 @@
 	background-color: #EDEDED;
 	position: relative;
 	margin-right: -10000px;
-	width: 98.42%;
-	margin-left: 0.8%;
-	left: -1.499999897877153px;
+	width: 98.72%;
+	margin-left: 0.65%;
+	left: -0.9999999234078303px;
 	border-width: 0px 2px;
 }
 
-#u2849-4
+#u3343-4
 {
 	z-index: 25;
 	min-height: 24px;
 	background-color: transparent;
 	text-align: center;
-	width: 49%;
+	width: 87.34%;
 }
 
-#pbuttonu2844:hover #u2849-4
+#pbuttonu3342:hover #u3343-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 31px;
+	margin-top: 19px;
 	min-height: 24px;
-	width: 49%;
-	left: 25.71%;
+	width: 87.34%;
+	left: 7.47%;
 }
 
-#pbuttonu2844:hover #u2849-4 p,#pbuttonu2844:hover #u2849-4 span
+#pbuttonu3342.ButtonSelected #u3343-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 87.34%;
+}
+
+#pbuttonu3342:hover #u3343-4 p,#pbuttonu3342:hover #u3343-4 span
 {
 	color: #2C2C2C;
 	visibility: inherit;
 }
 
-#u2847
+#pbuttonu3342 #u3343-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 7.15%;
+}
+
+#u3344
 {
 	z-index: 29;
 	background-color: transparent;
-	width: 8.04%;
+	width: 6.5%;
 }
 
-#pbuttonu2844:hover #u2847
+#pbuttonu3342:hover #u3344
 {
 	position: relative;
 	margin-right: -10000px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.19%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
-#u2845
+#u3346
 {
 	z-index: 31;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	width: 8.04%;
+	width: 6.5%;
 }
 
-#pbuttonu2844:hover #u2845
+#pbuttonu3342:hover #u3346
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.59%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
-#pbuttonu2850
+#pbuttonu3348
 {
 	z-index: 35;
 	margin-right: -10000px;
-	margin-top: 200px;
-	width: 80.58%;
-	margin-left: 112.58%;
+	margin-top: 297px;
+	width: 99.37%;
+	margin-left: 103.19%;
 }
 
-#buttonu2850
+#buttonu3348
 {
 	z-index: 35;
 	height: 55px;
 	border-style: solid;
-	border-color: #8CC63F;
+	border-color: #39B54A;
 	background-color: #EDEDED;
 	position: relative;
 	margin-right: -10000px;
-	width: 98.42%;
-	margin-left: 0.8%;
-	left: -1.499999897877153px;
+	width: 98.72%;
+	margin-left: 0.65%;
+	left: -0.9999999234078303px;
 	border-width: 0px 2px;
 }
 
-#u2853-4
+#u3353-4
 {
 	z-index: 36;
 	min-height: 24px;
 	background-color: transparent;
 	text-align: center;
-	width: 49%;
+	width: 90.91%;
 }
 
-#pbuttonu2850:hover #u2853-4
+#pbuttonu3348:hover #u3353-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 31px;
+	margin-top: 19px;
 	min-height: 24px;
-	width: 49%;
-	left: 25.71%;
+	width: 90.91%;
+	left: 5.2%;
 }
 
-#pbuttonu2838.ButtonSelected #u2839-4,#pbuttonu2844.ButtonSelected #u2849-4,#pbuttonu2850.ButtonSelected #u2853-4
+#pbuttonu3348.ButtonSelected #u3353-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 24px;
-	width: 49%;
+	width: 90.91%;
 }
 
-#pbuttonu2850:hover #u2853-4 p,#pbuttonu2850:hover #u2853-4 span
+#pbuttonu3348:hover #u3353-4 p,#pbuttonu3348:hover #u3353-4 span
 {
 	color: #2C2C2C;
 	visibility: inherit;
 }
 
-#pbuttonu2838 #u2839-4,#pbuttonu2844 #u2849-4,#pbuttonu2850 #u2853-4
+#pbuttonu3348 #u3353-4
 {
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 31px;
-	left: 25.31%;
+	margin-top: 19px;
+	left: 4.88%;
 }
 
-#u2851
+#u3349
 {
 	z-index: 40;
 	background-color: transparent;
-	width: 8.04%;
+	width: 6.5%;
 }
 
-#pbuttonu2850:hover #u2851
+#pbuttonu3348:hover #u3349
 {
 	position: relative;
 	margin-right: -10000px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.19%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
-#u2854
+#u3351
 {
 	z-index: 42;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	width: 8.04%;
+	width: 6.5%;
 }
 
-#pbuttonu2850:hover #u2854
+#pbuttonu3348:hover #u3351
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.59%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
-#pbuttonu2898
+#pbuttonu3396
 {
 	z-index: 46;
 	margin-right: -10000px;
-	margin-top: 255px;
-	width: 80.58%;
-	margin-left: 112.58%;
+	margin-top: 352px;
+	width: 99.37%;
+	margin-left: 103.19%;
 }
 
-#buttonu2898
+#buttonu3396
 {
 	z-index: 46;
 	height: 55px;
 	border-style: solid;
-	border-color: #FCEE21;
+	border-color: #F7931E;
 	background-color: #EDEDED;
 	position: relative;
 	margin-right: -10000px;
-	width: 98.42%;
-	margin-left: 0.8%;
-	left: -1.499999897877153px;
+	width: 98.72%;
+	margin-left: 0.65%;
+	left: -0.9999999234078303px;
 	border-width: 0px 2px;
 }
 
-#pbuttonu2838:hover #buttonu2838,#pbuttonu2844:hover #buttonu2844,#pbuttonu2850:hover #buttonu2850,#pbuttonu2898:hover #buttonu2898
+#pbuttonu3336:hover #buttonu3336,#pbuttonu3342:hover #buttonu3342,#pbuttonu3348:hover #buttonu3348,#pbuttonu3396:hover #buttonu3396
 {
 	height: 55px;
 	border-width: 0px;
@@ -678,138 +713,140 @@
 	margin-right: -10000px;
 	margin-top: 0px;
 	min-height: 0px;
-	width: 99.21%;
-	margin-left: 0.4%;
-	left: 0.5000001021228471px;
+	width: 99.36%;
+	margin-left: 0.33%;
+	left: 1.0000000765921695px;
 }
 
-#u2899-4
+#u3401-4
 {
 	z-index: 47;
 	min-height: 24px;
 	background-color: transparent;
 	text-align: center;
-	width: 55.03%;
+	width: 93.19%;
 }
 
-#pbuttonu2898:hover #u2899-4
+#pbuttonu3396:hover #u3401-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 31px;
+	margin-top: 17px;
 	min-height: 24px;
-	width: 55.03%;
-	left: 23.3%;
+	width: 93.19%;
+	left: 4.23%;
 }
 
-#pbuttonu2898.ButtonSelected #u2899-4
+#pbuttonu3396.ButtonSelected #u3401-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 24px;
-	width: 55.03%;
+	width: 93.19%;
 }
 
-#pbuttonu2898:hover #u2899-4 p,#pbuttonu2898:hover #u2899-4 span
+#pbuttonu3396:hover #u3401-4 p,#pbuttonu3396:hover #u3401-4 span
 {
 	color: #2C2C2C;
 	visibility: inherit;
 }
 
-#pbuttonu2838.ButtonSelected #u2839-4 p,#pbuttonu2838.ButtonSelected #u2839-4 span,#pbuttonu2844.ButtonSelected #u2849-4 p,#pbuttonu2844.ButtonSelected #u2849-4 span,#pbuttonu2850.ButtonSelected #u2853-4 p,#pbuttonu2850.ButtonSelected #u2853-4 span,#pbuttonu2898.ButtonSelected #u2899-4 p,#pbuttonu2898.ButtonSelected #u2899-4 span
+#pbuttonu3336.ButtonSelected #u3339-4 p,#pbuttonu3336.ButtonSelected #u3339-4 span,#pbuttonu3342.ButtonSelected #u3343-4 p,#pbuttonu3342.ButtonSelected #u3343-4 span,#pbuttonu3348.ButtonSelected #u3353-4 p,#pbuttonu3348.ButtonSelected #u3353-4 span,#pbuttonu3396.ButtonSelected #u3401-4 p,#pbuttonu3396.ButtonSelected #u3401-4 span
 {
 	color: #000000;
 	visibility: inherit;
 }
 
-#u2839-2,#u2849-2,#u2853-2,#u2899-2
+#u3339-2,#u3343-2,#u3353-2,#u3401-2
 {
 	padding-top: 1px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u2839,#u2849,#u2853,#u2899
+#u3339,#u3343,#u3353,#u3401
 {
 	font-size: 13px;
 	color: #000000;
 	line-height: 16px;
 }
 
-#pbuttonu2898 #u2899-4
+#pbuttonu3396 #u3401-4
 {
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 31px;
-	left: 22.9%;
+	margin-top: 17px;
+	left: 3.9%;
 }
 
-#u2902
+#u3397
 {
 	z-index: 51;
 	background-color: transparent;
-	width: 8.04%;
+	width: 6.5%;
 }
 
-#pbuttonu2898:hover #u2902
+#pbuttonu3396:hover #u3397
 {
 	position: relative;
 	margin-right: -10000px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.19%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
-#pbuttonu2838.ButtonSelected #u2842,#pbuttonu2844.ButtonSelected #u2847,#pbuttonu2850.ButtonSelected #u2851,#pbuttonu2898.ButtonSelected #u2902
+#pbuttonu3336.ButtonSelected #u3340,#pbuttonu3342.ButtonSelected #u3344,#pbuttonu3348.ButtonSelected #u3349,#pbuttonu3396.ButtonSelected #u3397
 {
 	min-height: 0px;
-	width: 8.04%;
+	width: 6.5%;
 }
 
-#pbuttonu2838 #u2842,#pbuttonu2844 #u2847,#pbuttonu2850 #u2851,#pbuttonu2898 #u2902
+#pbuttonu3336 #u3340,#pbuttonu3342 #u3344,#pbuttonu3348 #u3349,#pbuttonu3396 #u3397
 {
 	position: relative;
 	margin-right: -10000px;
-	left: 45.79%;
+	left: 47.41%;
 }
 
-#u2900
+#u3399
 {
 	z-index: 53;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	width: 8.04%;
+	width: 6.5%;
 }
 
-#pbuttonu2898:hover #u2900
+#pbuttonu3396:hover #u3399
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 	min-height: 0px;
-	width: 8.04%;
-	left: 46.59%;
+	width: 6.5%;
+	left: 47.73%;
 }
 
-#pbuttonu2838.ButtonSelected #u2840,#pbuttonu2844.ButtonSelected #u2845,#pbuttonu2850.ButtonSelected #u2854,#pbuttonu2898.ButtonSelected #u2900
+#pbuttonu3336.ButtonSelected #u3337,#pbuttonu3342.ButtonSelected #u3346,#pbuttonu3348.ButtonSelected #u3351,#pbuttonu3396.ButtonSelected #u3399
 {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	min-height: 0px;
-	width: 8.04%;
+	width: 6.5%;
 }
 
-#pbuttonu2838 #u2840,#pbuttonu2844 #u2845,#pbuttonu2850 #u2854,#pbuttonu2898 #u2900
+#pbuttonu3336 #u3337,#pbuttonu3342 #u3346,#pbuttonu3348 #u3351,#pbuttonu3396 #u3399
 {
 	position: relative;
 	margin-right: -10000px;
-	left: 46.19%;
+	margin-top: 1px;
+	left: 47.41%;
 }
 
 #pamphletu593
@@ -1359,7 +1396,7 @@ body
 	min-height: 1px;
 }
 
-#u2842_img,#u2840_img,#u2847_img,#u2845_img,#u2851_img,#u2854_img,#u2902_img,#u2900_img,#u3019_img,#u807_img
+#u3340_img,#u3337_img,#u3344_img,#u3346_img,#u3349_img,#u3351_img,#u3397_img,#u3399_img,#u3019_img,#u807_img
 {
 	width: 100%;
 }
