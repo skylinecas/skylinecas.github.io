@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EB;
-	background-color: #938DCB;
+	color: #0000ED;
+	background-color: #703953;
 }
 
 #muse_css_mq
@@ -103,7 +103,7 @@
 
 #menuu98
 {
-	z-index: 40;
+	z-index: 44;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 165px;
@@ -353,7 +353,7 @@
 
 #u3015
 {
-	z-index: 39;
+	z-index: 43;
 	min-height: 32px;
 	border-width: 0px;
 	border-color: transparent;
@@ -376,7 +376,7 @@
 
 #u2980-4
 {
-	z-index: 35;
+	z-index: 39;
 	min-height: 54px;
 	background-color: transparent;
 	margin-top: 1px;
@@ -387,7 +387,7 @@
 
 #u1119
 {
-	z-index: 65;
+	z-index: 69;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -409,7 +409,7 @@
 
 #u1207
 {
-	z-index: 66;
+	z-index: 70;
 	height: 1px;
 	border-color: #000000;
 	background-color: #BEC3C3;
@@ -419,7 +419,7 @@
 	margin-left: 0.11%;
 }
 
-#u1210-12
+#u1210-16
 {
 	z-index: 23;
 	min-height: 32px;
@@ -432,7 +432,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 766px);
+	height: calc(100vh - 817px);
 }
 
 #u325-4
