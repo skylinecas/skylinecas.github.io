@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.gimkit /* version checker */
 {
-	color: #000003;
-	background-color: #5D6BEF;
+	color: #000012;
+	background-color: #ABD006;
 }
 
 #muse_css_mq
@@ -39,13 +39,13 @@
 	z-index: 0;
 	margin-right: -10000px;
 	margin-top: -65px;
-	width: 100.11%;
+	width: 100%;
 }
 
 #pu1227
 {
 	z-index: 2;
-	width: 99.9%;
+	width: 100%;
 }
 
 #u1227
@@ -103,7 +103,7 @@
 
 #menuu98
 {
-	z-index: 50;
+	z-index: 58;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 165px;
@@ -351,98 +351,30 @@
 	margin-right: 6px;
 }
 
-#u3015
-{
-	z-index: 49;
-	min-height: 32px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	margin-top: 1px;
-	position: relative;
-	width: 6.25%;
-	margin-left: 46.73%;
-}
-
-#u322-4
+#u3938-46
 {
 	z-index: 12;
-	display: block;
-	vertical-align: top;
-	margin-top: 7px;
-	position: relative;
-	margin-left: 2.19%;
-}
-
-#u2980-4
-{
-	z-index: 45;
-	min-height: 54px;
+	min-height: 269px;
 	background-color: transparent;
-	margin-top: 1px;
+	margin-top: 231px;
 	position: relative;
-	width: 95.63%;
-	margin-left: 2.4%;
-}
-
-#u1119
-{
-	z-index: 75;
-	height: 1px;
-	border-color: #000000;
-	background-color: #BEC3C3;
-	margin-top: 13px;
-	position: relative;
-	width: 99.9%;
-}
-
-#u1123-7
-{
-	z-index: 16;
-	min-height: 32px;
-	background-color: transparent;
-	margin-top: 36px;
-	position: relative;
-	width: 95.63%;
-	margin-left: 2.09%;
-}
-
-#u1207
-{
-	z-index: 76;
-	height: 1px;
-	border-color: #000000;
-	background-color: #BEC3C3;
-	margin-top: 37px;
-	position: relative;
-	width: 99.9%;
-	margin-left: 0.11%;
-}
-
-#u1210-22
-{
-	z-index: 23;
-	min-height: 32px;
-	background-color: transparent;
-	margin-top: 36px;
-	position: relative;
-	width: 95.63%;
-	margin-left: 2.19%;
+	width: 95.53%;
+	margin-left: 2.3%;
 }
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 868px);
+	height: calc(100vh - 1038px);
 }
 
 #u325-4
 {
 	z-index: 3;
 	min-height: 25px;
-	margin-bottom: -68px;
+	margin-bottom: -69px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 105px;
+	margin-top: 106px;
 	width: 95.94%;
 	left: 2.19%;
 }
@@ -469,4 +401,5 @@ body
 {
 	width: 100%;
 }
+
 
