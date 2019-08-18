@@ -30,9 +30,9 @@
 {
 	background-color: transparent;
 	letter-spacing: 1px;
+	color: #3C3C3C;
 	font-size: 14px;
 	text-align: center;
-	color: #3C3C3C;
 	font-family: dosis, sans-serif;
 	font-weight: 300;
 }
@@ -311,11 +311,6 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u614,#u614-3,#u618,#u618-3,#u612,#u612-3,#u608,#u608-3,#u625
-{
-	line-height: 19px;
-}
-
 #u623
 {
 	border-width: 0px;
@@ -343,7 +338,65 @@
 	background-color: transparent;
 }
 
-#buttonu622.ButtonSelected #u623
+#buttonu3993
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#buttonu3993:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #D4BFE1;
+}
+
+#u3994-4
+{
+	background-color: transparent;
+	text-align: center;
+}
+
+#u3994-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u614,#u614-3,#u618,#u618-3,#u612,#u612-3,#u608,#u608-3,#u625,#u3994
+{
+	line-height: 19px;
+}
+
+#u3995
+{
+	border-width: 0px;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u3995::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: none;
+}
+
+#buttonu622.ButtonSelected #u623,#buttonu3993.ButtonSelected,#buttonu3993:hover #u3995
+{
+	background-color: transparent;
+}
+
+#buttonu3993:active #u3995
+{
+	background-color: transparent;
+}
+
+#buttonu3993.ButtonSelected #u3995
 {
 	background-color: transparent;
 }

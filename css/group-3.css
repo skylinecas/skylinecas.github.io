@@ -1,7 +1,7 @@
 .version.group_3 /* version checker */
 {
-	color: #000014;
-	background-color: #5C8DCC;
+	color: #00000B;
+	background-color: #84849F;
 }
 
 #muse_css_mq
@@ -859,7 +859,7 @@
 
 #u598
 {
-	z-index: 145;
+	z-index: 152;
 	position: relative;
 	width: 80.58%;
 	margin-left: 8.29%;
@@ -881,7 +881,7 @@
 
 #u807
 {
-	z-index: 147;
+	z-index: 154;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
@@ -922,8 +922,8 @@
 {
 	z-index: 96;
 	width: 314px;
-	height: 376.9984381184684px;
-	padding-bottom: 213.0015618815316px;
+	height: 374px;
+	padding-bottom: 216px;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -970,8 +970,8 @@
 {
 	z-index: 102;
 	width: 313px;
-	height: 47px;
-	padding-bottom: 10px;
+	height: 45px;
+	padding-bottom: 5px;
 	margin-left: 1px;
 	position: relative;
 }
@@ -979,15 +979,7 @@
 #buttonu613:hover
 {
 	width: 313px;
-	height: 47px;
-	min-height: 0px;
-	margin: 0px 0px 0px 1px;
-}
-
-#buttonu613.ButtonSelected
-{
-	width: 313px;
-	height: 47px;
+	height: 45px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -999,7 +991,7 @@
 	min-height: 24px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 5px;
 	left: 96px;
 }
 
@@ -1009,7 +1001,7 @@
 	padding-bottom: 0px;
 	min-height: 24px;
 	width: 122px;
-	margin: 7px -10000px 0px 0px;
+	margin: 5px -10000px 0px 0px;
 }
 
 #u615
@@ -1018,7 +1010,7 @@
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
+	margin-top: 9px;
 	left: 295px;
 }
 
@@ -1026,29 +1018,22 @@
 {
 	width: 17px;
 	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
+	margin: 9px -10000px 0px 0px;
 }
 
 #buttonu613:active #u615
 {
 	width: 17px;
 	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
-}
-
-#buttonu613.ButtonSelected #u615
-{
-	width: 17px;
-	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
+	margin: 9px -10000px 0px 0px;
 }
 
 #buttonu617
 {
 	z-index: 120;
 	width: 313px;
-	height: 47px;
-	padding-bottom: 10px;
+	height: 44px;
+	padding-bottom: 6px;
 	margin-left: 1px;
 	top: -1px;
 	margin-bottom: -1px;
@@ -1058,7 +1043,7 @@
 #buttonu617:hover
 {
 	width: 313px;
-	height: 47px;
+	height: 44px;
 	min-height: 0px;
 	margin: 0px 0px -1px 1px;
 }
@@ -1066,7 +1051,7 @@
 #buttonu617.ButtonSelected
 {
 	width: 313px;
-	height: 47px;
+	height: 44px;
 	min-height: 0px;
 	margin: 0px 0px -1px 1px;
 }
@@ -1078,7 +1063,7 @@
 	min-height: 24px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 4px;
 	left: 57px;
 }
 
@@ -1088,7 +1073,7 @@
 	padding-bottom: 0px;
 	min-height: 24px;
 	width: 205px;
-	margin: 7px -10000px 0px 0px;
+	margin: 4px -10000px 0px 0px;
 }
 
 #buttonu617.ButtonSelected #u618-6
@@ -1097,7 +1082,7 @@
 	padding-bottom: 0px;
 	min-height: 24px;
 	width: 205px;
-	margin: 7px -10000px 0px 0px;
+	margin: 4px -10000px 0px 0px;
 }
 
 #u619
@@ -1128,27 +1113,18 @@
 {
 	z-index: 111;
 	width: 313px;
-	height: 47px;
-	padding-bottom: 10px;
+	height: 45px;
+	padding-bottom: 5px;
 	margin-left: 1px;
-	margin-top: 1px;
 	position: relative;
 }
 
-#buttonu609:hover
+#buttonu613.ButtonSelected,#buttonu609:hover
 {
 	width: 313px;
-	height: 47px;
+	height: 45px;
 	min-height: 0px;
-	margin: 1px 0px 0px 1px;
-}
-
-#buttonu609.ButtonSelected
-{
-	width: 313px;
-	height: 47px;
-	min-height: 0px;
-	margin: 1px 0px 0px 1px;
+	margin: 0px 0px 0px 1px;
 }
 
 #u612-6
@@ -1158,7 +1134,7 @@
 	min-height: 24px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 5px;
 	left: 96px;
 }
 
@@ -1168,7 +1144,7 @@
 	padding-bottom: 0px;
 	min-height: 24px;
 	width: 122px;
-	margin: 7px -10000px 0px 0px;
+	margin: 5px -10000px 0px 0px;
 }
 
 #u610
@@ -1181,7 +1157,7 @@
 	left: 295px;
 }
 
-#buttonu609:hover #u610
+#buttonu613.ButtonSelected #u615,#buttonu609:hover #u610
 {
 	width: 17px;
 	min-height: 0px;
@@ -1195,30 +1171,37 @@
 	margin: 9px -10000px 0px 0px;
 }
 
+#buttonu609.ButtonSelected #u610
+{
+	width: 17px;
+	min-height: 0px;
+	margin: 9px -10000px 0px 0px;
+}
+
 #buttonu605
 {
 	z-index: 129;
 	width: 313px;
-	height: 47px;
-	padding-bottom: 10px;
-	margin-top: 1px;
+	height: 45px;
+	padding-bottom: 5px;
+	margin-left: 1px;
 	position: relative;
 }
 
-#buttonu605:hover
+#buttonu609.ButtonSelected,#buttonu605:hover
 {
 	width: 313px;
-	height: 47px;
+	height: 45px;
 	min-height: 0px;
-	margin: 1px 0px 0px;
+	margin: 0px 0px 0px 1px;
 }
 
 #buttonu605.ButtonSelected
 {
 	width: 313px;
-	height: 47px;
+	height: 45px;
 	min-height: 0px;
-	margin: 1px 0px 0px;
+	margin: 0px 0px 0px 1px;
 }
 
 #u608-6
@@ -1228,7 +1211,7 @@
 	min-height: 24px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 5px;
 	left: 96px;
 }
 
@@ -1238,7 +1221,7 @@
 	padding-bottom: 0px;
 	min-height: 24px;
 	width: 122px;
-	margin: 7px -10000px 0px 0px;
+	margin: 5px -10000px 0px 0px;
 }
 
 #buttonu605.ButtonSelected #u608-6
@@ -1247,7 +1230,7 @@
 	padding-bottom: 0px;
 	min-height: 24px;
 	width: 122px;
-	margin: 7px -10000px 0px 0px;
+	margin: 5px -10000px 0px 0px;
 }
 
 #u606
@@ -1285,8 +1268,8 @@
 {
 	z-index: 138;
 	width: 313px;
-	height: 42px;
-	padding-bottom: 12px;
+	height: 36px;
+	padding-bottom: 4px;
 	margin-left: 1px;
 	position: relative;
 }
@@ -1294,7 +1277,7 @@
 #buttonu622:hover
 {
 	width: 313px;
-	height: 42px;
+	height: 36px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -1302,7 +1285,7 @@
 #buttonu622.ButtonSelected
 {
 	width: 313px;
-	height: 42px;
+	height: 36px;
 	min-height: 0px;
 	margin: 0px 0px 0px 1px;
 }
@@ -1310,12 +1293,12 @@
 #u625-4
 {
 	z-index: 139;
-	width: 182px;
+	width: 294px;
 	min-height: 24px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	left: 67px;
+	margin-top: 4px;
+	left: 6px;
 }
 
 #buttonu622:hover #u625-4
@@ -1323,8 +1306,8 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 24px;
-	width: 182px;
-	margin: 9px -10000px 0px 0px;
+	width: 294px;
+	margin: 4px -10000px 0px 0px;
 }
 
 #buttonu622.ButtonSelected #u625-4
@@ -1332,8 +1315,8 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 24px;
-	width: 182px;
-	margin: 9px -10000px 0px 0px;
+	width: 294px;
+	margin: 4px -10000px 0px 0px;
 }
 
 #u623
@@ -1342,29 +1325,109 @@
 	width: 17px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
+	margin-top: 3px;
 	left: 296px;
 }
 
-#buttonu609.ButtonSelected #u610,#buttonu622:hover #u623
+#buttonu622:hover #u623
 {
 	width: 17px;
 	min-height: 0px;
-	margin: 9px -10000px 0px 0px;
+	margin: 3px -10000px 0px 0px;
 }
 
 #buttonu622:active #u623
 {
 	width: 17px;
 	min-height: 0px;
+	margin: 3px -10000px 0px 0px;
+}
+
+#buttonu3993
+{
+	z-index: 145;
+	width: 313px;
+	height: 36px;
+	padding-bottom: 4px;
+	margin-left: 1px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#buttonu3993:hover
+{
+	width: 313px;
+	height: 36px;
+	min-height: 0px;
+	margin: 1px 0px 0px 1px;
+}
+
+#buttonu3993.ButtonSelected
+{
+	width: 313px;
+	height: 36px;
+	min-height: 0px;
+	margin: 1px 0px 0px 1px;
+}
+
+#u3994-4
+{
+	z-index: 146;
+	width: 182px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 67px;
+}
+
+#buttonu3993:hover #u3994-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 182px;
 	margin: 9px -10000px 0px 0px;
 }
 
-#buttonu622.ButtonSelected #u623
+#buttonu3993.ButtonSelected #u3994-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 182px;
+	margin: 9px -10000px 0px 0px;
+}
+
+#u3995
+{
+	z-index: 150;
+	width: 17px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 296px;
+}
+
+#buttonu622.ButtonSelected #u623,#buttonu3993:hover #u3995
 {
 	width: 17px;
 	min-height: 0px;
-	margin: 9px -10000px 0px 0px;
+	margin: 3px -10000px 0px 0px;
+}
+
+#buttonu3993:active #u3995
+{
+	width: 17px;
+	min-height: 0px;
+	margin: 3px -10000px 0px 0px;
+}
+
+#buttonu3993.ButtonSelected #u3995
+{
+	width: 17px;
+	min-height: 0px;
+	margin: 3px -10000px 0px 0px;
 }
 
 .css_verticalspacer .verticalspacer

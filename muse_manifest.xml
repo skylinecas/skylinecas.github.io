@@ -1,37 +1,38 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skylinecas.github.io" resolutions="1x" timestamp="1557889895115">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skylinecas.github.io" resolutions="1x" timestamp="1566159696226">
   <folder name="css">
     <file name="site_global.css" crc="246224940"/>
-    <file name="master_resources.css" crc="272208180" ref="history:psychology:further:resources:group-5:core:economics:physics:tok:group-4:chemistry:literature:statistics:group-2:calculus:group-1:group-3:biology:computer-science:apush:standardized-testing"/>
-    <file name="master_a-master.css" crc="256143480" ref="history:psychology:further:resources:group-5:cas-club:core:misc:economics:physics:tok:group-4:chemistry:literature:statistics:group-2:calculus:index:group-1:group-3:biology:computer-science:scholarships:volunteer-opportunities:apush:standardized-testing:gimkit:teacher-review"/>
-    <file name="history.css" crc="334720616" ref="history"/>
-    <file name="psychology.css" crc="383351589" ref="psychology"/>
-    <file name="further.css" crc="387368597" ref="further"/>
-    <file name="resources.css" crc="3830663181" ref="resources"/>
-    <file name="group-5.css" crc="136495668" ref="group-5"/>
+    <file name="master_resources.css" crc="4010908517" ref="history:psychology:further:resources:group-5:core:economics:physics:tok:group-4:chemistry:literature:statistics:group-2:calculus:group-1:group-3:biology:computer-science:apush:standardized-testing:college-apps"/>
+    <file name="master_a-master.css" crc="3910344018" ref="history:psychology:further:resources:group-5:cas-club:core:misc:economics:physics:tok:group-4:chemistry:literature:statistics:group-2:calculus:index:group-1:group-3:biology:computer-science:scholarships:volunteer-opportunities:apush:standardized-testing:gimkit:teacher-review:college-apps"/>
+    <file name="history.css" crc="415585083" ref="history"/>
+    <file name="psychology.css" crc="4110544392" ref="psychology"/>
+    <file name="further.css" crc="3954179095" ref="further"/>
+    <file name="resources.css" crc="414835806" ref="resources"/>
+    <file name="group-5.css" crc="216534363" ref="group-5"/>
     <file name="cas-club.css" crc="457672191" ref="cas-club"/>
-    <file name="core.css" crc="387368597" ref="core"/>
+    <file name="core.css" crc="3954179095" ref="core"/>
     <file name="misc.css" crc="123773842" ref="misc"/>
-    <file name="economics.css" crc="263964361" ref="economics"/>
-    <file name="physics.css" crc="4011824131" ref="physics"/>
-    <file name="tok.css" crc="387368597" ref="tok"/>
-    <file name="group-4.css" crc="4272835010" ref="group-4"/>
-    <file name="chemistry.css" crc="4292330363" ref="chemistry"/>
-    <file name="literature.css" crc="3909030412" ref="literature"/>
-    <file name="statistics.css" crc="387368597" ref="statistics"/>
-    <file name="group-2.css" crc="219300658" ref="group-2"/>
-    <file name="calculus.css" crc="4239153029" ref="calculus"/>
-    <file name="index.css" crc="27240284" ref="index"/>
-    <file name="group-1.css" crc="522678421" ref="group-1"/>
-    <file name="group-3.css" crc="341609932" ref="group-3"/>
-    <file name="biology.css" crc="459259816" ref="biology"/>
-    <file name="computer-science.css" crc="4225273628" ref="computer-science"/>
+    <file name="economics.css" crc="4189895895" ref="economics"/>
+    <file name="physics.css" crc="4235732257" ref="physics"/>
+    <file name="tok.css" crc="3954179095" ref="tok"/>
+    <file name="group-4.css" crc="359234681" ref="group-4"/>
+    <file name="chemistry.css" crc="357355952" ref="chemistry"/>
+    <file name="literature.css" crc="3881857436" ref="literature"/>
+    <file name="statistics.css" crc="4183863293" ref="statistics"/>
+    <file name="group-2.css" crc="3806294874" ref="group-2"/>
+    <file name="calculus.css" crc="353252983" ref="calculus"/>
+    <file name="index.css" crc="267995659" ref="index"/>
+    <file name="group-1.css" crc="3867631431" ref="group-1"/>
+    <file name="group-3.css" crc="193234079" ref="group-3"/>
+    <file name="biology.css" crc="179081594" ref="biology"/>
+    <file name="computer-science.css" crc="4099921768" ref="computer-science"/>
     <file name="master_cas-club.css" crc="343681748" ref="scholarships:cas-club:volunteer-opportunities"/>
     <file name="scholarships.css" crc="472435251" ref="scholarships"/>
     <file name="volunteer-opportunities.css" crc="3917765791" ref="volunteer-opportunities"/>
-    <file name="apush.css" crc="4110088375" ref="apush"/>
-    <file name="standardized-testing.css" crc="319590667" ref="standardized-testing"/>
+    <file name="apush.css" crc="134714483" ref="apush"/>
+    <file name="standardized-testing.css" crc="436377377" ref="standardized-testing"/>
     <file name="gimkit.css" crc="255179877" ref="gimkit"/>
     <file name="teacher-review.css" crc="4080139417" ref="teacher-review"/>
+    <file name="college-apps.css" crc="3985180154" ref="college-apps"/>
   </folder>
   <folder name="assets">
     <file name="banner-1.3.png" crc="4053254976" seo="true" mt="1537920629000"/>
@@ -40,254 +41,286 @@
     <file name="macbeth-litchart.pdf" crc="405032782" seo="true" mt="1542161604000"/>
     <file name="the-things-they-carried-litchart.pdf" crc="3911124373" seo="true" mt="1542161629000"/>
     <file name="how-to-read-literature-like-a-professor-litchart.pdf" crc="146348382" seo="true" mt="1542162247000"/>
+    <file name="edward-b.-fiske---fiske-guide-to-colleges-2020-sourcebooks-(2019).pdf" crc="8456369" seo="true" mt="1566059743000"/>
+    <file name="kafka-on-the-shore-litchart.pdf" crc="192406681" seo="true" mt="1566151691000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review"/>
-    <file name="museutils.js" crc="340535759" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review"/>
-    <file name="whatinput.js" crc="86476730" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review"/>
-    <file name="require.js" crc="7928878" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review"/>
-    <file name="webpro.js" crc="4059564322" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing"/>
-    <file name="touchswipe.js" crc="4075097462" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps"/>
+    <file name="museutils.js" crc="340535759" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps"/>
+    <file name="whatinput.js" crc="86476730" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps"/>
+    <file name="require.js" crc="7928878" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps"/>
+    <file name="webpro.js" crc="4059564322" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing:college-apps"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing:college-apps"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing:college-apps"/>
+    <file name="touchswipe.js" crc="4075097462" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing:college-apps"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="7778443" ref="index"/>
-    <file name="pasdf.png" crc="223653777" seo="true" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing">
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="physics" alt=""/>
+    <file name="favicon.ico" crc="7778443" ref="index:resources"/>
+    <file name="pasdf.png" crc="223653777" seo="true" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing:college-apps">
       <caption webpage="apush" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="resources" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="psychology" alt=""/>
       <caption webpage="group-2" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="tok" alt=""/>
       <caption webpage="economics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="further" alt=""/>
       <caption webpage="group-3" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="group-5" alt=""/>
     </file>
-    <file name="pointer.png" crc="3760686964" seo="true" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing">
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing:college-apps">
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="resources" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
       <caption webpage="group-2" alt=""/>
       <caption webpage="group-2" alt=""/>
       <caption webpage="group-2" alt=""/>
       <caption webpage="group-2" alt=""/>
       <caption webpage="group-2" alt=""/>
+      <caption webpage="group-2" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="tok" alt=""/>
       <caption webpage="economics" alt=""/>
       <caption webpage="economics" alt=""/>
       <caption webpage="economics" alt=""/>
       <caption webpage="economics" alt=""/>
       <caption webpage="economics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
+      <caption webpage="further" alt=""/>
       <caption webpage="group-3" alt=""/>
       <caption webpage="group-3" alt=""/>
       <caption webpage="group-3" alt=""/>
       <caption webpage="group-3" alt=""/>
       <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
     </file>
     <file name="doward arrow 20x10 white.jpg" crc="263142446" seo="true" ref="group-1:group-3:group-4:group-5:cas-club:volunteer-opportunities:scholarships">
       <caption webpage="group-4" alt=""/>
       <caption webpage="group-4" alt=""/>
       <caption webpage="group-4" alt=""/>
       <caption webpage="group-4" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
+      <caption webpage="cas-club" alt=""/>
+      <caption webpage="cas-club" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="volunteer-opportunities" alt=""/>
+      <caption webpage="volunteer-opportunities" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
       <caption webpage="group-1" alt=""/>
-      <caption webpage="volunteer-opportunities" alt=""/>
-      <caption webpage="volunteer-opportunities" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="scholarships" alt=""/>
-      <caption webpage="scholarships" alt=""/>
-      <caption webpage="cas-club" alt=""/>
-      <caption webpage="cas-club" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
     </file>
     <file name="pointerb.png" crc="3780694765" seo="true" ref="group-1:group-2:group-3:group-4:group-5:cas-club:volunteer-opportunities:scholarships">
       <caption webpage="group-4" alt=""/>
       <caption webpage="group-4" alt=""/>
       <caption webpage="group-4" alt=""/>
       <caption webpage="group-4" alt=""/>
+      <caption webpage="cas-club" alt=""/>
+      <caption webpage="cas-club" alt=""/>
       <caption webpage="group-3" alt=""/>
       <caption webpage="group-3" alt=""/>
       <caption webpage="group-3" alt=""/>
       <caption webpage="group-3" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
+      <caption webpage="volunteer-opportunities" alt=""/>
+      <caption webpage="volunteer-opportunities" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="scholarships" alt=""/>
       <caption webpage="group-1" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
       <caption webpage="group-2" alt=""/>
-      <caption webpage="volunteer-opportunities" alt=""/>
-      <caption webpage="volunteer-opportunities" alt=""/>
-      <caption webpage="scholarships" alt=""/>
-      <caption webpage="scholarships" alt=""/>
-      <caption webpage="cas-club" alt=""/>
-      <caption webpage="cas-club" alt=""/>
     </file>
-    <file name="banner 14.jpg" crc="3793993425" seo="true" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review">
-      <caption webpage="group-4" alt=""/>
-      <caption webpage="scholarships" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="teacher-review" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="volunteer-opportunities" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="cas-club" alt=""/>
-      <caption webpage="gimkit" alt=""/>
+    <file name="banner 14.jpg" crc="3793993425" seo="true" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps">
       <caption webpage="tok" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="misc" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="chemistry" alt=""/>
-      <caption webpage="group-2" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="literature" alt=""/>
+      <caption webpage="cas-club" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="teacher-review" alt=""/>
+      <caption webpage="scholarships" alt=""/>
       <caption webpage="untitled-24" alt=""/>
       <caption webpage="further" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="chemistry" alt=""/>
+      <caption webpage="gimkit" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="volunteer-opportunities" alt=""/>
+      <caption webpage="group-4" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="college-apps" alt=""/>
       <caption webpage="apush" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="group-2" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="events" alt=""/>
     </file>
     <file name="u322-4.png" crc="4263808660" ref="index"/>
   </folder>
-  <file name="index.html" crc="56246814" seo="true" mt="1557889886676" redirect="true"/>
-  <file name="resources.html" crc="370524056" seo="true" mt="1543288933638" redirect="true"/>
+  <file name="index.html" crc="3768561222" seo="true" mt="1566159690975" redirect="true"/>
+  <file name="resources.html" crc="3899401446" seo="true" mt="1566159505070" redirect="true"/>
   <file name="cas-club.html" crc="4280083475" seo="true" mt="1546306828856" redirect="true"/>
   <file name="misc.html" crc="4169858247" seo="true" mt="1546307305607" redirect="true"/>
-  <file name="group-1.html" crc="3881975441" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="group-2.html" crc="406676678" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="group-3.html" crc="367729062" seo="true" mt="1546306725938" redirect="true"/>
-  <file name="group-4.html" crc="432647542" seo="true" mt="1546306779464" redirect="true"/>
-  <file name="group-5.html" crc="380400611" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="core.html" crc="3761413206" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="literature.html" crc="274265328" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="economics.html" crc="4131637357" seo="true" mt="1546307473481" redirect="true"/>
-  <file name="psychology.html" crc="3979428381" seo="true" mt="1546306389556" redirect="true"/>
-  <file name="history.html" crc="506645341" seo="true" mt="1545453472901" redirect="true"/>
-  <file name="biology.html" crc="512844133" seo="true" mt="1551746495689" redirect="true"/>
-  <file name="physics.html" crc="4127185399" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="chemistry.html" crc="4015011364" seo="true" mt="1545099024256" redirect="true"/>
-  <file name="calculus.html" crc="4020514172" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="statistics.html" crc="113834244" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="further.html" crc="81435111" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="tok.html" crc="3872073171" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="computer-science.html" crc="3901699851" seo="true" mt="1545453512082" redirect="true"/>
+  <file name="group-1.html" crc="205549261" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="group-2.html" crc="3791093450" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="group-3.html" crc="3911926831" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="group-4.html" crc="3805521131" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="group-5.html" crc="525562482" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="core.html" crc="3778435370" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="literature.html" crc="4226652765" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="economics.html" crc="127734658" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="psychology.html" crc="4186443889" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="history.html" crc="30274772" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="biology.html" crc="530445962" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="physics.html" crc="326506408" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="chemistry.html" crc="4269904168" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="calculus.html" crc="3984837322" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="statistics.html" crc="361961936" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="further.html" crc="334848391" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="tok.html" crc="3771082306" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="computer-science.html" crc="3984645560" seo="true" mt="1566159505070" redirect="true"/>
   <file name="volunteer-opportunities.html" crc="3854800491" seo="true" mt="1546306940065" redirect="true"/>
   <file name="scholarships.html" crc="117388121" seo="true" mt="1546307279053" redirect="true"/>
-  <file name="apush.html" crc="4221172007" seo="true" mt="1543288933638" redirect="true"/>
-  <file name="standardized-testing.html" crc="4056955880" seo="true" mt="1543288933638" redirect="true"/>
+  <file name="apush.html" crc="106104740" seo="true" mt="1566159505070" redirect="true"/>
+  <file name="standardized-testing.html" crc="240402261" seo="true" mt="1566159505070" redirect="true"/>
   <file name="gimkit.html" crc="3805328210" seo="true" mt="1546568618078" redirect="true"/>
   <file name="teacher-review.html" crc="386192294" seo="true" mt="1548642288667" redirect="true"/>
+  <file name="college-apps.html" crc="3918591415" seo="true" mt="1566159505070" redirect="true"/>
 </manifest>
