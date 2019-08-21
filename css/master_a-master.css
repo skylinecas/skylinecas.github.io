@@ -167,11 +167,11 @@
 
 #u124-3,#u103-3
 {
-	color: #FFFFFF;
 	font-size: 12px;
 	line-height: 14px;
-	letter-spacing: 4px;
 	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 4px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }
@@ -244,11 +244,11 @@
 
 #u111-3,#u117-3
 {
-	color: #FFFFFF;
 	font-size: 12px;
 	line-height: 14px;
-	letter-spacing: 5px;
 	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 5px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }
