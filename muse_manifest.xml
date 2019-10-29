@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skylinecas.github.io" resolutions="1x" timestamp="1572311689006">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="skylinecas.github.io" resolutions="1x" timestamp="1572384110606">
   <folder name="css">
     <file name="site_global.css" crc="246224940"/>
     <file name="master_resources.css" crc="4005498376" ref="history:psychology:further:resources:group-5:core:economics:physics:tok:group-4:chemistry:literature:statistics:group-2:calculus:group-1:group-3:biology:computer-science:apush:standardized-testing:college-apps"/>
-    <file name="master_a-master.css" crc="4118813781" ref="history:psychology:further:resources:group-5:cas-club:core:misc:economics:physics:tok:group-4:chemistry:literature:statistics:group-2:calculus:index:group-1:group-3:biology:computer-science:scholarships:volunteer-opportunities:apush:standardized-testing:gimkit:teacher-review:college-apps:arduino"/>
+    <file name="master_a-master.css" crc="331485925" ref="history:psychology:further:resources:group-5:cas-club:core:misc:economics:physics:tok:group-4:chemistry:literature:statistics:group-2:calculus:index:group-1:group-3:biology:computer-science:scholarships:volunteer-opportunities:apush:standardized-testing:gimkit:teacher-review:college-apps:arduino"/>
     <file name="history.css" crc="415585083" ref="history"/>
     <file name="psychology.css" crc="4110544392" ref="psychology"/>
     <file name="further.css" crc="4200367318" ref="further"/>
@@ -23,7 +23,7 @@
     <file name="index.css" crc="3782446731" ref="index"/>
     <file name="group-1.css" crc="3867631431" ref="group-1"/>
     <file name="group-3.css" crc="193234079" ref="group-3"/>
-    <file name="biology.css" crc="300370490" ref="biology"/>
+    <file name="biology.css" crc="253641827" ref="biology"/>
     <file name="computer-science.css" crc="237036146" ref="computer-science"/>
     <file name="master_cas-club.css" crc="343681748" ref="scholarships:cas-club:volunteer-opportunities"/>
     <file name="scholarships.css" crc="472435251" ref="scholarships"/>
@@ -48,6 +48,7 @@
     <file name="chapter-1-outline.pdf" crc="526709349" seo="true" mt="1567966014000"/>
     <file name="chapter-2-outline.pdf" crc="4247463718" seo="true" mt="1569895629000"/>
     <file name="biology---oxford-study-guide.pdf" crc="35932007" seo="true" mt="1572311554000"/>
+    <file name="document.pdf" crc="279939338" seo="true" mt="1572383971000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps:arduino"/>
@@ -66,108 +67,132 @@
   <folder name="images">
     <file name="favicon.ico" crc="7778443" ref="index:biology"/>
     <file name="pasdf.png" crc="223653777" seo="true" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing:college-apps">
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="group-2" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="college-apps" alt=""/>
       <caption webpage="chemistry" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="calculus" alt=""/>
       <caption webpage="apush" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="group-3" alt=""/>
       <caption webpage="further" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="statistics" alt=""/>
       <caption webpage="group-4" alt=""/>
       <caption webpage="tok" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="history" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="group-2" alt=""/>
+      <caption webpage="group-1" alt=""/>
     </file>
     <file name="pointer.png" crc="3760686964" seo="true" ref="resources:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:apush:standardized-testing:college-apps">
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="calculus" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="statistics" alt=""/>
-      <caption webpage="group-2" alt=""/>
-      <caption webpage="group-2" alt=""/>
-      <caption webpage="group-2" alt=""/>
-      <caption webpage="group-2" alt=""/>
-      <caption webpage="group-2" alt=""/>
-      <caption webpage="group-2" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="resources" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="college-apps" alt=""/>
-      <caption webpage="college-apps" alt=""/>
-      <caption webpage="college-apps" alt=""/>
-      <caption webpage="college-apps" alt=""/>
-      <caption webpage="college-apps" alt=""/>
-      <caption webpage="college-apps" alt=""/>
       <caption webpage="chemistry" alt=""/>
       <caption webpage="chemistry" alt=""/>
       <caption webpage="chemistry" alt=""/>
       <caption webpage="chemistry" alt=""/>
       <caption webpage="chemistry" alt=""/>
       <caption webpage="chemistry" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="literature" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
+      <caption webpage="calculus" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
       <caption webpage="apush" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="psychology" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="group-3" alt=""/>
       <caption webpage="further" alt=""/>
       <caption webpage="further" alt=""/>
       <caption webpage="further" alt=""/>
       <caption webpage="further" alt=""/>
       <caption webpage="further" alt=""/>
       <caption webpage="further" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="group-5" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="statistics" alt=""/>
+      <caption webpage="statistics" alt=""/>
       <caption webpage="group-4" alt=""/>
       <caption webpage="group-4" alt=""/>
       <caption webpage="group-4" alt=""/>
@@ -180,48 +205,24 @@
       <caption webpage="tok" alt=""/>
       <caption webpage="tok" alt=""/>
       <caption webpage="tok" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="literature" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-3" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="physics" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="resources" alt=""/>
+      <caption webpage="group-2" alt=""/>
+      <caption webpage="group-2" alt=""/>
+      <caption webpage="group-2" alt=""/>
+      <caption webpage="group-2" alt=""/>
+      <caption webpage="group-2" alt=""/>
+      <caption webpage="group-2" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
+      <caption webpage="group-1" alt=""/>
     </file>
     <file name="doward arrow 20x10 white.jpg" crc="263142446" seo="true" ref="group-1:group-3:group-4:group-5:cas-club:volunteer-opportunities:scholarships">
       <caption webpage="volunteer-opportunities" alt=""/>
@@ -265,38 +266,38 @@
       <caption webpage="group-5" alt=""/>
     </file>
     <file name="banner 14.jpg" crc="3793993425" seo="true" ref="index:resources:cas-club:misc:group-1:group-2:group-3:group-4:group-5:core:literature:economics:psychology:history:biology:physics:chemistry:calculus:statistics:further:tok:computer-science:volunteer-opportunities:scholarships:apush:standardized-testing:gimkit:teacher-review:college-apps:arduino">
-      <caption webpage="computer-science" alt=""/>
-      <caption webpage="core" alt=""/>
-      <caption webpage="misc" alt=""/>
-      <caption webpage="apush" alt=""/>
-      <caption webpage="further" alt=""/>
-      <caption webpage="tok" alt=""/>
-      <caption webpage="group-1" alt=""/>
-      <caption webpage="physics" alt=""/>
       <caption webpage="group-4" alt=""/>
-      <caption webpage="biology" alt=""/>
-      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="history" alt=""/>
       <caption webpage="calculus" alt=""/>
-      <caption webpage="untitled-24" alt=""/>
-      <caption webpage="gimkit" alt=""/>
+      <caption webpage="apush" alt=""/>
+      <caption webpage="arduino" alt=""/>
+      <caption webpage="economics" alt=""/>
+      <caption webpage="group-3" alt=""/>
+      <caption webpage="tok" alt=""/>
+      <caption webpage="cas-club" alt=""/>
+      <caption webpage="misc" alt=""/>
       <caption webpage="statistics" alt=""/>
-      <caption webpage="teacher-review" alt=""/>
+      <caption webpage="further" alt=""/>
       <caption webpage="resources" alt=""/>
+      <caption webpage="group-5" alt=""/>
       <caption webpage="chemistry" alt=""/>
+      <caption webpage="college-apps" alt=""/>
+      <caption webpage="physics" alt=""/>
+      <caption webpage="standardized-testing" alt=""/>
+      <caption webpage="teacher-review" alt=""/>
+      <caption webpage="biology" alt=""/>
+      <caption webpage="core" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="volunteer-opportunities" alt=""/>
+      <caption webpage="psychology" alt=""/>
       <caption webpage="scholarships" alt=""/>
       <caption webpage="literature" alt=""/>
-      <caption webpage="economics" alt=""/>
-      <caption webpage="arduino" alt=""/>
-      <caption webpage="cas-club" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="psychology" alt=""/>
-      <caption webpage="group-2" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="group-5" alt=""/>
-      <caption webpage="college-apps" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="gimkit" alt=""/>
       <caption webpage="events" alt=""/>
-      <caption webpage="volunteer-opportunities" alt=""/>
-      <caption webpage="group-3" alt=""/>
+      <caption webpage="untitled-24" alt=""/>
+      <caption webpage="group-2" alt=""/>
+      <caption webpage="group-1" alt=""/>
     </file>
     <file name="u322-4.png" crc="4263808660" ref="index"/>
   </folder>
@@ -314,7 +315,7 @@
   <file name="economics.html" crc="4017519768" seo="true" mt="1567969010060" redirect="true"/>
   <file name="psychology.html" crc="21093603" seo="true" mt="1567969010060" redirect="true"/>
   <file name="history.html" crc="4030320894" seo="true" mt="1567969010060" redirect="true"/>
-  <file name="biology.html" crc="3770492978" seo="true" mt="1572311620420" redirect="true"/>
+  <file name="biology.html" crc="4059061111" seo="true" mt="1572384087537" redirect="true"/>
   <file name="physics.html" crc="361957426" seo="true" mt="1567969010060" redirect="true"/>
   <file name="chemistry.html" crc="331685238" seo="true" mt="1567969010060" redirect="true"/>
   <file name="calculus.html" crc="461216540" seo="true" mt="1567969010060" redirect="true"/>
