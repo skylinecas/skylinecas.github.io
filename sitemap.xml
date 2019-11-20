@@ -46,21 +46,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://skylinecas.github.io/literature.html</loc>
-    <lastmod>2019-09-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/pasdf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/pointer.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/banner%2014.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://skylinecas.github.io/college-apps.html</loc>
     <lastmod>2019-09-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -179,6 +164,36 @@
   </url>
   <url>
     <loc>http://skylinecas.github.io/further.html</loc>
+    <lastmod>2019-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/pasdf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/pointer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/banner%2014.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skylinecas.github.io/statistics.html</loc>
+    <lastmod>2019-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/pasdf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/pointer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/banner%2014.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://skylinecas.github.io/tok.html</loc>
     <lastmod>2019-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -328,7 +343,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://skylinecas.github.io/statistics.html</loc>
+    <loc>http://skylinecas.github.io/psychology.html</loc>
     <lastmod>2019-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -343,7 +358,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://skylinecas.github.io/tok.html</loc>
+    <loc>http://skylinecas.github.io/literature.html</loc>
     <lastmod>2019-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -360,51 +375,6 @@
   <url>
     <loc>http://skylinecas.github.io/economics.html</loc>
     <lastmod>2019-09-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/pasdf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/pointer.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/banner%2014.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://skylinecas.github.io/psychology.html</loc>
-    <lastmod>2019-09-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/pasdf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/pointer.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/banner%2014.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://skylinecas.github.io/physics.html</loc>
-    <lastmod>2019-09-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/pasdf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/pointer.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://skylinecas.github.io/images/banner%2014.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://skylinecas.github.io/biology.html</loc>
-    <lastmod>2019-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -448,16 +418,34 @@
     </image:image>
   </url>
   <url>
-    <loc>http://skylinecas.github.io/assets/banner-1.3.png</loc>
-    <lastmod>2018-09-25</lastmod>
+    <loc>http://skylinecas.github.io/biology.html</loc>
+    <lastmod>2019-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/pasdf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/pointer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/banner%2014.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://skylinecas.github.io/assets/biology---oxford-study-guide.pdf</loc>
-    <lastmod>2019-10-28</lastmod>
+    <loc>http://skylinecas.github.io/physics.html</loc>
+    <lastmod>2019-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/pasdf.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/pointer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://skylinecas.github.io/images/banner%2014.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://skylinecas.github.io/assets/fifth-business-litchart.pdf</loc>
@@ -466,14 +454,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://skylinecas.github.io/assets/document.pdf</loc>
-    <lastmod>2019-10-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://skylinecas.github.io/assets/chapter-1-concepts.pdf</loc>
-    <lastmod>2019-09-08</lastmod>
+    <loc>http://skylinecas.github.io/assets/mathematics_paper_1_tz1_hl_markscheme.pdf</loc>
+    <lastmod>2019-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -484,14 +466,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://skylinecas.github.io/assets/chapter-1-outline.pdf</loc>
-    <lastmod>2019-09-08</lastmod>
+    <loc>http://skylinecas.github.io/assets/document.pdf</loc>
+    <lastmod>2019-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://skylinecas.github.io/assets/how-to-read-literature-like-a-professor-litchart.pdf</loc>
-    <lastmod>2018-11-13</lastmod>
+    <loc>http://skylinecas.github.io/assets/biology---oxford-study-guide.pdf</loc>
+    <lastmod>2019-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -502,14 +484,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://skylinecas.github.io/assets/edward-b.-fiske---fiske-guide-to-colleges-2020-sourcebooks-(2019).pdf</loc>
-    <lastmod>2019-08-17</lastmod>
+    <loc>http://skylinecas.github.io/assets/chapter-1-outline.pdf</loc>
+    <lastmod>2019-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://skylinecas.github.io/assets/the-great-gatsby-litchart.pdf</loc>
-    <lastmod>2018-11-13</lastmod>
+    <loc>http://skylinecas.github.io/assets/chapter-1-concepts.pdf</loc>
+    <lastmod>2019-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -520,7 +502,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://skylinecas.github.io/assets/edward-b.-fiske---fiske-guide-to-colleges-2020-sourcebooks-(2019).pdf</loc>
+    <lastmod>2019-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://skylinecas.github.io/assets/how-to-read-literature-like-a-professor-litchart.pdf</loc>
+    <lastmod>2018-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://skylinecas.github.io/assets/banner-1.3.png</loc>
+    <lastmod>2018-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://skylinecas.github.io/assets/macbeth-litchart.pdf</loc>
+    <lastmod>2018-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://skylinecas.github.io/assets/the-great-gatsby-litchart.pdf</loc>
     <lastmod>2018-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
